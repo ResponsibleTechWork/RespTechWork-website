@@ -59,7 +59,7 @@
   a {
     &:not(.button) {
       color: inherit;
-      display: inline-block;
+      display: block;
       text-decoration: none;
 
       &:hover {
@@ -105,6 +105,7 @@
       padding-top: 0.5em;
 
       &.button:not(.button-icon) {
+        display: inline-block;
         padding-left: 1.25em;
         padding-right: 1.25em;
       }
