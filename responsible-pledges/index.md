@@ -1,10 +1,10 @@
 ---
-title: ResponsibleTech.Work Pledges
+title: The Pledges
 description: Learn about key principles of responsible product development and get inspired to act and start the conversation with your team, regardless of your job title.
 sections:
   - section_id: hero
     type: section_hero_plain
-    title: ResponsibleTech.Work Pledges
+    title: The Pledges
     content: >- 
       Regardless of your job title, you can pledge to make your work more responsible. Each pledge helps you learn a bit more about responsible product development by providing discussion and action points for you and your team.
   - section_id: pledges-overview
