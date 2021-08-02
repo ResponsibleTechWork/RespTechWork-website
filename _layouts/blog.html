@@ -1,0 +1,71 @@
+---
+layout: body
+---
+
+  <header class="page-header has-gradient outer">
+    {% assign image_is_not_empty = page.image | is_not_empty %}
+    {% if image_is_not_empty %}
+    <div class="bg-img" style="background-image: url('{{ page.image | relative_url }}')"></div>
+    {% endif %}
+    <div class="inner-sm">
+      <h1 class="page-title">Blog</h1>
+      {% assign subtitle_is_not_empty = page.subtitle | is_not_empty %}
+      {% if subtitle_is_not_empty %}
+      <p class="page-subtitle">{{ page.subtitle }}</p>
+      {% endif %}
+      {% if page.autopages %}<p class="page-subtitle">Filtering by tag: {{page.autopages.display_name | capitalize}} (show <a href="/blog/">all posts</a>)</p>{% endif %}
+    </div>
+  </header><!--.page-header -->
+  
+  <div class="inner-md outer">
+    <div class="post-feed">
+      {% for post in paginator.posts %}
+      <article class="post">
+        {% assign thumb_image_is_not_empty = post.thumb_image | is_not_empty %}
+        {% if thumb_image_is_not_empty %}
+        <div class="post-thumbnail">
+          <a href="{{ post.url | relative_url }}"><img src="{{ post.thumb_image | relative_url }}" alt="{{ page.thumb_image_alt }}" /></a>
+        </div>
+        {% endif %}
+        <header class="post-header">
+          <div class="post-meta">
+            <time class="published" datetime="{{ post.date | date: '%Y-%m-%d %H:%M' }}">{{ post.date | date: '%B %d, %Y' }}</time>
+          </div>
+          <h2 class="post-title"><a href="{{ post.url | relative_url }}" rel="bookmark">{{ post.title }}</a></h2>
+        </header>
+        {% assign excerpt_is_not_empty = post.excerpt | is_not_empty %}
+        {% if excerpt_is_not_empty %}
+        <p class="post-excerpt">{{ post.excerpt }}</p>
+        {% if page.has_more_link == true and page.more_link_text %}
+        <p class="read-more">
+          <a class="read-more-link" href="{{ post.url | relative_url }}">{{ page.more_link_text }}</a>
+        </p>
+        {% endif %}
+        {% endif %}
+        <div class="post-meta">
+        Tags:&nbsp;
+        {% for tag in post.tags %}
+          <a href="/blog/tag/{{ tag | slugify | downcase }}">{{ tag }}</a>&nbsp;
+        {% endfor %}
+        </div>
+      </article><!-- .post -->
+    {% endfor %}
+    </div><!-- .post-feed -->
+    <div class="pagination">
+      {% if paginator.total_pages >  1 %}
+        <ul>
+          {% if paginator.previous_page %}
+          <li>
+            <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+          </li>
+          {% endif %}
+          {% if paginator.next_page %}
+          <li>
+            <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+          </li>
+          {% endif %}
+        </ul>
+      {% endif %}
+    </div><!-- .pagination -->
+    <p class="rss-subscribe">Subscribe to new blog posts <a href="{{ "/index.xml" | relative_url }}">via RSS</a></p>
+  </div><!-- .inner-md -->

@@ -1,0 +1,41 @@
+---
+layout: body
+---
+
+<div class="inner outer">
+  <div class="docs-content">
+    <nav id="docs-nav" class="docs-nav">
+      <div id="docs-nav-inside" class="docs-nav-inside sticky">
+        <button id="docs-nav-toggle" class="docs-nav-toggle">Navigate tools<span class="icon-angle-right" aria-hidden="true"></span></button>
+        <div class="docs-nav-menu">
+          <ul id="docs-menu" class="docs-menu">
+            <li class="docs-menu-item docs-title"><a href="/tools">&#8592; All tools</a></li>
+            <li class="docs-menu-item menu-category">{{ page.category | capitalize }} tools:</li>
+            {% for tool in site.tools %}
+            {% if tool.category == page.category %}
+            <li class="docs-menu-item{% if tool.url == page.url %} current{% endif %}"><a href="{{ tool.url }}">{{tool.title}}</a></li>
+            {% endif %}
+            {% endfor %}
+          </ul><!-- .docs-menu -->
+        </div><!-- .docs-nav-menu -->
+      </div><!-- .docs-nav-inside -->
+    </nav><!-- .docs-nav -->
+    <article class="post type-docs">
+      <div class="post-inside">
+        <header class="post-header">
+          <h1 class="post-title line-left">{{ page.title }}</h1>
+        </header><!-- .post-header -->
+        <div class="post-content">
+          <p class="post-excerpt">{{ page.excerpt }}</p>
+          {{ content }}
+        </div><!-- .post-content -->
+      </div><!-- .post-inside -->
+    </article><!-- .post -->
+    <nav id="page-nav" class="page-nav">
+      <div id="page-nav-inside" class="page-nav-inside sticky">
+        <h2 class="page-nav-title">Jump to Section</h2>
+        <div id="page-nav-link-container"></div>
+      </div><!-- .page-nav-inside -->
+    </nav><!-- .page-nav -->
+  </div><!-- .docs-content -->
+</div><!-- .inner-->

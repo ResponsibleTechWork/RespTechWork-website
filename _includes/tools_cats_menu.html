@@ -1,0 +1,16 @@
+<nav id="tools-nav" class="outer">
+  <div class="inner">
+    <div class="block-content">
+      <ul id="tools-menu" class="tools-menu">
+        <li class="tools-menu-item tools-title{% if page.url == '/tools/index.html' %} current{% endif %}">
+          <a href="/tools">All tools</a>
+        </li>
+        {% assign tools_categories = site.tools | group_by: "category" | sort: "name" %}
+        {% for cat in tools_categories %}
+          {% assign name_url = cat.name | slugify | downcase %}
+          <li class="tools-menu-item{% if page.url contains name_url %} current{% endif %}"><a href="/tools/{{ name_url }}">{{ cat.name | capitalize }} ({{cat.size}})</a></li>
+        {% endfor %}
+      </ul><!-- .tools-menu -->
+    </div>
+  </div>
+</nav>

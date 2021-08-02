@@ -1,0 +1,38 @@
+<footer id="colophon" class="site-footer outer">
+  <div class="inner">
+    <div class="site-footer-inside">
+      <div class="site-info">
+        <div class="footer-nav">
+          <ul class="menu">
+            {% for action in site.data.config.footer.nav_links %}
+              {% assign page_url = page.url | trim: '/' %}
+              {% assign action_url = action.url | trim: '/' %}
+              <li class="menu-item{% if page_url == action_url %} current{% endif %}">   
+                {% include action_link.html action=action %}
+              </li>
+            {% endfor %}
+          </ul>
+        </div><!-- .footer-nav -->
+        <div class="about"><a href="/"><strong>{{ site.title }}</strong></a> | {{ site.description }}</div>
+        <div class="copyright"><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Attribution-ShareAlike 4.0 International License" width="88" height="13" src="/assets/img/by-sa.svg" /></a>
+        <br/>
+        The content of the <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title" style="font-weight: bold;">ResponsibleTech.Work</span> website is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+        <br/>
+        Built with <a href="https://jekyllrb.com/">Jekyll</a>. Design based on the <a href="https://github.com/stackbit-themes/libris-jekyll">Libris theme</a> by <a href="https://www.stackbit.com/?utm_source=deployed-footer">Stackbit</a>.</div>
+      </div><!-- .site-info -->
+      {% assign has_social_is_not_empty = site.data.config.footer.has_social | is_not_empty %}
+      {% if has_social_is_not_empty %}
+      <div class="follow-us">
+        <div class="newsletter">
+          <a href="{{ site.news_signup }}">Subscribe to newsletter</a>
+        </div>
+        <div class="social-links">
+          {% for action in site.data.config.footer.social_links %}
+            {% include action_link.html action=action %}
+          {% endfor %}
+        </div>
+      </div><!-- .follow-us -->
+      {% endif %}
+    </div><!-- .site-footer-inside -->
+  </div><!-- .inner -->
+</footer><!-- .site-footer -->

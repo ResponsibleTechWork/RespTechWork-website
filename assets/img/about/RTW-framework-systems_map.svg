@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="546px" height="410px" viewBox="0 0 546 410" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Systems overview</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.368627 0 0 0 0 0.654902 0 0 0 0 0.337255 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter color-interpolation-filters="auto" id="filter-2">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.960784 0 0 0 0 0.835294 0 0 0 0 0.117647 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter color-interpolation-filters="auto" id="filter-3">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.960784 0 0 0 0 0.835294 0 0 0 0 0.117647 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter color-interpolation-filters="auto" id="filter-4">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.172549 0 0 0 0 0.509804 0 0 0 0 0.788235 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Systems-overview" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="planet" transform="translate(3.000000, 3.000000)">
+            <ellipse id="Oval" stroke="#5EA756" stroke-width="6" fill="#EFF6EE" cx="270" cy="202" rx="270" ry="202"></ellipse>
+            <text id="planet-Earth" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" fill="#242D3B">
+                <tspan x="235.479" y="361">planet Earth</tspan>
+            </text>
+            <text id="(flora-and-fauna,-na" font-family="Lato-Regular, Lato" font-size="12" font-weight="normal" fill="#888888">
+                <tspan x="179.372" y="378">(flora and fauna, natural resources)</tspan>
+            </text>
+            <g filter="url(#filter-1)" id="mdi:leaf">
+                <g transform="translate(257.000474, 311.000000)">
+                    <rect id="ViewBox" x="0" y="0" width="34" height="34"></rect>
+                    <path d="M24.0833333,11.3333333 C11.3333333,14.1666667 8.35833333,22.9075 5.41166667,30.2316667 L8.08916667,31.1666667 L9.435,27.9083333 C10.115,28.1491667 10.8233333,28.3333333 11.3333333,28.3333333 C26.9166667,28.3333333 31.1666667,4.25 31.1666667,4.25 C29.75,7.08333333 19.8333333,7.4375 12.75,8.85416667 C5.66666667,10.2708333 2.83333333,16.2916667 2.83333333,19.125 C2.83333333,21.9583333 5.3125,24.4375 5.3125,24.4375 C9.91666667,11.3333333 24.0833333,11.3333333 24.0833333,11.3333333 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+        <g id="people" transform="translate(41.000000, 14.000000)">
+            <ellipse id="Oval" stroke="#F5D51E" stroke-width="6" fill="#FFFCED" cx="232" cy="147.5" rx="232" ry="147.5"></ellipse>
+            <line x1="307.5" y1="7.5" x2="159" y2="286" id="Line-2" stroke="#F5D51E" stroke-width="6" stroke-linecap="square"></line>
+            <g id="not-using" transform="translate(270.000000, 104.000000)">
+                <text id="people-not-using-the" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" fill="#242D3B">
+                    <tspan x="5.369" y="48">people not using the product</tspan>
+                </text>
+                <text id="(indirectly-affected" font-family="Lato-Regular, Lato" font-size="12" font-weight="normal" fill="#888888">
+                    <tspan x="43.002" y="63">(indirectly affected)</tspan>
+                </text>
+                <g filter="url(#filter-2)" id="mdi:account-group">
+                    <g transform="translate(77.000000, 0.000000)">
+                        <rect id="ViewBox" x="0" y="0" width="34" height="34"></rect>
+                        <path d="M17,7.79166667 C19.7384119,7.79166667 21.9583333,10.0115881 21.9583333,12.75 C21.9583333,15.4884119 19.7384119,17.7083333 17,17.7083333 C14.2615881,17.7083333 12.0416667,15.4884119 12.0416667,12.75 C12.0416667,10.0115881 14.2615881,7.79166667 17,7.79166667 M7.08333333,11.3333333 C7.87666667,11.3333333 8.61333333,11.5458333 9.25083333,11.9283333 C9.03833333,13.9541667 9.63333333,15.9658333 10.8516667,17.5383333 C10.1433333,18.8983333 8.72666667,19.8333333 7.08333333,19.8333333 C4.73612315,19.8333333 2.83333333,17.9305435 2.83333333,15.5833333 C2.83333333,13.2361231 4.73612315,11.3333333 7.08333333,11.3333333 M26.9166667,11.3333333 C29.2638769,11.3333333 31.1666667,13.2361231 31.1666667,15.5833333 C31.1666667,17.9305435 29.2638769,19.8333333 26.9166667,19.8333333 C25.2733333,19.8333333 23.8566667,18.8983333 23.1483333,17.5383333 C24.3834877,15.9437602 24.9568051,13.9346124 24.7491667,11.9283333 C25.3866667,11.5458333 26.1233333,11.3333333 26.9166667,11.3333333 M7.79166667,25.8541667 C7.79166667,22.9216667 11.9141667,20.5416667 17,20.5416667 C22.0858333,20.5416667 26.2083333,22.9216667 26.2083333,25.8541667 L26.2083333,28.3333333 L7.79166667,28.3333333 L7.79166667,25.8541667 M0,28.3333333 L0,26.2083333 C0,24.2391667 2.6775,22.5816667 6.30416667,22.1 C5.46833333,23.0633333 4.95833333,24.395 4.95833333,25.8541667 L4.95833333,28.3333333 L0,28.3333333 M34,28.3333333 L29.0416667,28.3333333 L29.0416667,25.8541667 C29.0416667,24.395 28.5316667,23.0633333 27.6958333,22.1 C31.3225,22.5816667 34,24.2391667 34,26.2083333 L34,28.3333333 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+            <g id="using" transform="translate(8.000000, 104.000000)">
+                <text id="people-using-the-pro" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" fill="#242D3B">
+                    <tspan x="0.388" y="48">people using the product</tspan>
+                </text>
+                <text id="(directly-affected)" font-family="Lato-Regular, Lato" font-size="12" font-weight="normal" fill="#888888">
+                    <tspan x="24.874" y="63">(directly affected)</tspan>
+                </text>
+                <g filter="url(#filter-3)" id="mdi:account-group">
+                    <g transform="translate(54.000000, 0.000000)">
+                        <rect id="ViewBox" x="0" y="0" width="34" height="34"></rect>
+                        <path d="M17,7.79166667 C19.7384119,7.79166667 21.9583333,10.0115881 21.9583333,12.75 C21.9583333,15.4884119 19.7384119,17.7083333 17,17.7083333 C14.2615881,17.7083333 12.0416667,15.4884119 12.0416667,12.75 C12.0416667,10.0115881 14.2615881,7.79166667 17,7.79166667 M7.08333333,11.3333333 C7.87666667,11.3333333 8.61333333,11.5458333 9.25083333,11.9283333 C9.03833333,13.9541667 9.63333333,15.9658333 10.8516667,17.5383333 C10.1433333,18.8983333 8.72666667,19.8333333 7.08333333,19.8333333 C4.73612315,19.8333333 2.83333333,17.9305435 2.83333333,15.5833333 C2.83333333,13.2361231 4.73612315,11.3333333 7.08333333,11.3333333 M26.9166667,11.3333333 C29.2638769,11.3333333 31.1666667,13.2361231 31.1666667,15.5833333 C31.1666667,17.9305435 29.2638769,19.8333333 26.9166667,19.8333333 C25.2733333,19.8333333 23.8566667,18.8983333 23.1483333,17.5383333 C24.3834877,15.9437602 24.9568051,13.9346124 24.7491667,11.9283333 C25.3866667,11.5458333 26.1233333,11.3333333 26.9166667,11.3333333 M7.79166667,25.8541667 C7.79166667,22.9216667 11.9141667,20.5416667 17,20.5416667 C22.0858333,20.5416667 26.2083333,22.9216667 26.2083333,25.8541667 L26.2083333,28.3333333 L7.79166667,28.3333333 L7.79166667,25.8541667 M0,28.3333333 L0,26.2083333 C0,24.2391667 2.6775,22.5816667 6.30416667,22.1 C5.46833333,23.0633333 4.95833333,24.395 4.95833333,25.8541667 L4.95833333,28.3333333 L0,28.3333333 M34,28.3333333 L29.0416667,28.3333333 L29.0416667,25.8541667 C29.0416667,24.395 28.5316667,23.0633333 27.6958333,22.1 C31.3225,22.5816667 34,24.2391667 34,26.2083333 L34,28.3333333 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="core" transform="translate(194.000000, 37.000000)">
+            <g id="outsourced" transform="translate(21.000000, 122.835821)">
+                <circle id="Oval" stroke="#2C82C9" stroke-width="6" fill="#FDFEFF" cx="56.5" cy="56.5" r="56.5"></circle>
+                <text id="contractors,-moderat" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" fill="#242D3B">
+                    <tspan x="21.448" y="45.1641791">contractors, </tspan>
+                    <tspan x="21.189" y="62.1641791">moderators, </tspan>
+                    <tspan x="24.43" y="79.1641791">suppliers …</tspan>
+                </text>
+            </g>
+            <circle id="Oval" stroke="#2C82C9" stroke-width="6" fill="#FDFEFF" cx="67" cy="67" r="67"></circle>
+            <text id="PRODUCT" font-family="Lato-Black, Lato" font-size="16" font-weight="800" fill="#242D3B">
+                <tspan x="28" y="74">PRODUCT</tspan>
+            </text>
+            <text id="employees" font-family="Lato-Bold, Lato" font-size="14" font-weight="bold" fill="#242D3B">
+                <tspan x="36" y="93">employees</tspan>
+            </text>
+            <g filter="url(#filter-4)" id="mdi:code-tags">
+                <g transform="translate(50.000000, 22.000000)">
+                    <rect id="ViewBox" x="0" y="0" width="34" height="34"></rect>
+                    <path d="M20.6729577,23.8478873 L27.1712676,17.2394366 L20.6729577,10.6309859 L22.6507042,8.61971831 L31.1267606,17.2394366 L22.6507042,25.8591549 L20.6729577,23.8478873 M13.3270423,23.8478873 L6.82873239,17.2394366 L13.3270423,10.6309859 L11.3492958,8.61971831 L2.87323944,17.2394366 L11.3492958,25.8591549 L13.3270423,23.8478873 L13.3270423,23.8478873 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

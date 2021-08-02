@@ -1,0 +1,24 @@
+resources:
+  root_docs_path: /resources
+  sections:
+    - accessibility
+    - algorithmic-bias
+    - diversity
+    - ethics
+    - sustainability
+pledge:
+  root_docs_path: /responsible-pledges
+  sections:
+    - 1-respect-people
+    - 2-protect-against-abuse
+    - 3-accessible-tech
+    - 4-social-impact
+    - 5-environmental-impacts
+    - 6-diverse-team
+    - 7-personal-responsibility
+methodologies:
+  root_docs_path: /methodologies
+  sections:
+    - startups
+    - innovation
+    - product-development

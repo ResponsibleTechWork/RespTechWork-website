@@ -1,0 +1,118 @@
+// Index page grid items
+#framework {
+  .grid-item-title {
+    font-size: 2em;
+    text-align: center;
+  }
+  .grid-item-content {
+    text-align: center;
+    font-size: 1.125em;
+    font-style: italic;
+  }
+  .grid-item-buttons {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+  }
+}
+#values {
+  .grid-item-title {
+    font-size: 1.5em;
+    text-align: center;
+  }
+}
+
+// Pledges
+.block-pledges {  
+  h3 {
+    font-size: 1.75em;
+    text-align: center;
+  }
+  p {
+    font-size: 1.125em;
+    font-style: italic;
+    text-align: center;
+  }
+  .grid-item-buttons {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+  }
+}
+
+h2.pledge-group-intro {
+  font-size: 1.5em;
+  font-weight: normal;
+  text-align: left;
+  color: $gray-500;
+  margin: 0.5em 0;
+  &:first-child {
+    margin-top: 2em;
+  }
+} 
+
+.pledge-num {
+  color: white;
+  background-color: $color-primary;
+  font-size: 1.5em;
+  font-weight: bold;
+  width: 46px;
+  line-height: 46px;
+  border-radius: 50%;
+  text-align: center;
+  margin: 0.7em auto -0.5em auto;
+}
+
+.post-inside > .pledge-num {
+  margin: 0 auto 1em auto;
+}
+
+// Tools
+#tools-menu {
+  color: $gray-700;
+  line-height: 1.5;
+  list-style: none;
+  margin: 0;
+  padding: 1em 0;
+  text-align: center;
+  a {
+    color: inherit;
+    text-decoration: none;
+
+    &:hover {
+      color: $color-primary;
+    }
+  }
+  .current,
+  .current-parent {
+    color: $color-primary;
+  }
+  .tools-title {
+    font-weight: bold;
+  }
+  li {
+    display: inline-block;
+    padding-right: 1em;
+    &:not(:first-child):before {
+        content: "|";
+        color: $gray-700;
+        padding-right: 1em; 
+    }
+  }
+  border-bottom: 4px solid $color-primary;
+}
+.tool-meta {
+  color: $gray-500;
+  font-size: 0.875em; 
+  margin: 0 0 0.5em;
+  padding-left: 1.71428em;
+  padding-right: 1.71428em;
+}
+
+// Other
+.rss-subscribe {
+  font-size: 0.875em; 
+  color: $gray-500;
+  margin-top: 1em;
+  text-align: center;
+}

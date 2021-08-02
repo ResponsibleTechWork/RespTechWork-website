@@ -1,0 +1,42 @@
+{% assign site = include.site %}
+{% assign page = include.page %}
+{% assign group = include.group %}
+
+{% assign root_docs_path = site.data.doc_config[group].root_docs_path %}
+{% assign sections = site.data.doc_config[group].sections %}
+{% assign root_page = root_docs_path | get_page %}
+
+<nav id="docs-nav" class="docs-nav">
+  <div id="docs-nav-inside" class="docs-nav-inside sticky">
+    <button id="docs-nav-toggle" class="docs-nav-toggle">Explore {{ root_page.title }}<span class="icon-angle-right" aria-hidden="true"></span></button>
+    <div class="docs-nav-menu">
+      <ul id="docs-menu" class="docs-menu">
+        <li class="docs-menu-item docs-title{% if page.url == root_page.url %} current{% endif %}">
+          <a href="{{ root_page.url | relative_url }}">&#8592; {{ root_page.title }}</a>
+        </li>
+        {% for section in sections %}
+          {% assign section_path = root_docs_path | path_join: section %}
+          {% assign section_page = section_path | get_page %}
+          {% assign child_pages = section_path | get_pages | sort: 'weight' %}
+          {% assign child_count = child_pages | size %}
+          {% if child_count > 0 %}
+              {% assign has_children = true %}{% else %}
+              {% assign has_children = false %}{% endif %}
+          {% if page.url == section_page.url %}
+              {% assign is_current_page = true %}{% else %}
+              {% assign is_current_page = false %}{% endif %}
+          {% assign is_active = page.url | starts_with: section_page.url %}
+          <li class="docs-menu-item{% assign has_children_is_not_empty = has_children | is_not_empty %}{% if has_children_is_not_empty %} has-children{% endif %}{% assign is_current_page_is_not_empty = is_current_page | is_not_empty %}{% if is_current_page_is_not_empty %} current{% endif %}{% assign is_active_is_not_empty = is_active | is_not_empty %}{% if is_active_is_not_empty %} active{% endif %}">
+            <a href="{{ section_page.url | relative_url }}">{{ section_page.title }}</a>
+            {% assign has_children_is_not_empty = has_children | is_not_empty %}
+            {% if has_children_is_not_empty %}
+              <button class="docs-submenu-toggle"><span class="screen-reader-text">Submenu</span><span class="icon-angle-right" aria-hidden="true"></span></button>
+              
+              {% include docs_submenu.html child_pages=child_pages page=page site=site %}
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul><!-- .docs-menu -->
+    </div><!-- .docs-nav-menu -->
+  </div><!-- .docs-nav-inside -->
+</nav><!-- .docs-nav -->

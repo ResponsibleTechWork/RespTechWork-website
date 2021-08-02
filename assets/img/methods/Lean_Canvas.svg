@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="763px" height="466px" viewBox="0 0 763 466" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Lean Canvas</title>
+    <g id="Lean-Canvas" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke="#2E3B24" stroke-width="2" stroke-linecap="square" x="1" y="1" width="760" height="448"></rect>
+        <line x1="1.5" y1="334.5" x2="761.5" y2="334.5" id="Line" stroke="#242D3B" stroke-width="2" stroke-linecap="square"></line>
+        <line x1="152.5" y1="1.5" x2="152.5" y2="334.5" id="Line-2" stroke="#242D3B" stroke-width="2" stroke-linecap="square"></line>
+        <line x1="305.5" y1="1.5" x2="305.5" y2="334.5" id="Line-2" stroke="#242D3B" stroke-width="2" stroke-linecap="square"></line>
+        <line x1="457.5" y1="1.5" x2="457.5" y2="334.5" id="Line-2" stroke="#242D3B" stroke-width="2" stroke-linecap="square"></line>
+        <line x1="609.5" y1="1.5" x2="609.5" y2="334.5" id="Line-2" stroke="#242D3B" stroke-width="2" stroke-linecap="square"></line>
+        <line x1="152.5" y1="168.5" x2="305.5" y2="168.5" id="Line-3" stroke="#242D3B" stroke-width="2" stroke-linecap="square"></line>
+        <line x1="457.5" y1="168.5" x2="608" y2="169" id="Line-3" stroke="#242D3B" stroke-width="2" stroke-linecap="square"></line>
+        <text id="HIGH-LEVEL-CONCEPT" font-family="Lato-Black, Lato" font-size="12" font-weight="800" letter-spacing="-0.2" fill="#242D3B">
+            <tspan x="313" y="255">HIGH-LEVEL CONCEPT</tspan>
+        </text>
+        <text id="List-now-these-probl" font-family="Lato-LightItalic, Lato" font-size="10" font-style="italic" font-weight="300" fill="#747576">
+            <tspan x="7" y="268">List now these problems are solved </tspan>
+            <tspan x="7" y="280">today.</tspan>
+        </text>
+        <text id="EXISTING-ALTERNATIVE" font-family="Lato-Black, Lato" font-size="12" font-weight="800" letter-spacing="-0.2" fill="#242D3B">
+            <tspan x="7" y="255">EXISTING ALTERNATIVES</tspan>
+        </text>
+        <text id="List-your-path-to-cu" font-family="Lato-LightItalic, Lato" font-size="10" font-style="italic" font-weight="300" fill="#747576">
+            <tspan x="465" y="203">List your path to customers </tspan>
+            <tspan x="465" y="215">(inbound or outbound).</tspan>
+        </text>
+        <text id="CHANNELS" font-family="Lato-Black, Lato" font-size="18" font-weight="800" fill="#242D3B">
+            <tspan x="465" y="189">CHANNELS</tspan>
+        </text>
+        <text id="List-the-key-numbers" font-family="Lato-LightItalic, Lato" font-size="10" font-style="italic" font-weight="300" fill="#747576">
+            <tspan x="160" y="203">List the key numbers that tell you </tspan>
+            <tspan x="160" y="215">how your business is doing</tspan>
+        </text>
+        <text id="KEY-METRICS" font-family="Lato-Black, Lato" font-size="18" font-weight="800" fill="#242D3B">
+            <tspan x="160" y="189">KEY METRICS</tspan>
+        </text>
+        <text id="List-your-target-cus" font-family="Lato-LightItalic, Lato" font-size="10" font-style="italic" font-weight="300" fill="#747576">
+            <tspan x="617" y="57">List your target customers and </tspan>
+            <tspan x="617" y="69">users.</tspan>
+        </text>
+        <text id="Something-that-canno" font-family="Lato-LightItalic, Lato" font-size="10" font-style="italic" font-weight="300" fill="#747576">
+            <tspan x="465" y="57">Something that cannot easily be </tspan>
+            <tspan x="465" y="69">bought or copied.</tspan>
+        </text>
+        <text id="UNFAIR-ADVANTAGE" font-family="Lato-Black, Lato" font-size="18" font-weight="800" fill="#242D3B">
+            <tspan x="465" y="21">UNFAIR </tspan>
+            <tspan x="465" y="43">ADVANTAGE</tspan>
+        </text>
+        <text id="Single,-clear-compel" font-family="Lato-LightItalic, Lato" font-size="10" font-style="italic" font-weight="300" fill="#747576">
+            <tspan x="313" y="57">Single, clear compelling message </tspan>
+            <tspan x="313" y="69">that states why you are different </tspan>
+            <tspan x="313" y="81">and worth paying attention.</tspan>
+        </text>
+        <text id="UNIQUE-VALUE-PROPOSI" font-family="Lato-Black, Lato" font-size="18" font-weight="800" fill="#242D3B">
+            <tspan x="313" y="21">UNIQUE VALUE </tspan>
+            <tspan x="313" y="43">PROPOSITION</tspan>
+        </text>
+        <text id="Outline-a-possible-s" font-family="Lato-LightItalic, Lato" font-size="10" font-style="italic" font-weight="300" fill="#747576">
+            <tspan x="160" y="35">Outline a possible solution for each </tspan>
+            <tspan x="160" y="47">problem.</tspan>
+        </text>
+        <text id="SOLUTION" font-family="Lato-Black, Lato" font-size="18" font-weight="800" fill="#242D3B">
+            <tspan x="160" y="22">SOLUTION</tspan>
+        </text>
+        <text id="List-your-top-1-3-pr" font-family="Lato-LightItalic, Lato" font-size="10" font-style="italic" font-weight="300" fill="#747576">
+            <tspan x="7" y="35">List your top 1-3 problems.</tspan>
+        </text>
+        <text id="PROBLEM" font-family="Lato-Black, Lato" font-size="18" font-weight="800" fill="#242D3B">
+            <tspan x="6.5" y="21">PROBLEM</tspan>
+        </text>
+        <text id="CUSTOMER-SEGMENTS" font-family="Lato-Black, Lato" font-size="18" font-weight="800" fill="#242D3B">
+            <tspan x="617" y="21">CUSTOMER </tspan>
+            <tspan x="617" y="43">SEGMENTS</tspan>
+        </text>
+        <text id="List-your-X-for-Y-an" font-family="Lato-LightItalic, Lato" font-size="10" font-style="italic" font-weight="300" fill="#747576">
+            <tspan x="313" y="268">List your X for Y analogy e.g. </tspan>
+            <tspan x="313" y="280">YouTube = Flickr for videos.</tspan>
+        </text>
+        <text id="EARLY-ADOPTERS" font-family="Lato-Black, Lato" font-size="12" font-weight="800" letter-spacing="-0.2" fill="#242D3B">
+            <tspan x="618" y="255">EARLY ADOPTERS</tspan>
+        </text>
+        <text id="List-the-characteris" font-family="Lato-LightItalic, Lato" font-size="10" font-style="italic" font-weight="300" fill="#747576">
+            <tspan x="616.5" y="270">List the characteristics of your </tspan>
+            <tspan x="616.5" y="282">ideal customers.</tspan>
+        </text>
+        <text id="COST-STRUCTURE" font-family="Lato-Black, Lato" font-size="18" font-weight="800" fill="#242D3B">
+            <tspan x="7" y="355">COST STRUCTURE</tspan>
+        </text>
+        <text id="REVENUE-STREAMS" font-family="Lato-Black, Lato" font-size="18" font-weight="800" fill="#242D3B">
+            <tspan x="388" y="355">REVENUE STREAMS</tspan>
+        </text>
+        <text id="List-your-fixed-and" font-family="Lato-LightItalic, Lato" font-size="10" font-style="italic" font-weight="300" fill="#747576">
+            <tspan x="7" y="369">List your fixed and variable costs.</tspan>
+        </text>
+        <text id="List-your-sources-of" font-family="Lato-LightItalic, Lato" font-size="10" font-style="italic" font-weight="300" fill="#747576">
+            <tspan x="388" y="369">List your sources of revenue.</tspan>
+        </text>
+        <text id="Lean-Canvas-is-adapt" font-family="Lato-LightItalic, Lato" font-size="10" font-style="italic" font-weight="300" fill="#747576">
+            <tspan x="1" y="464">Lean Canvas is adapted from The Business Model Canvas and is licensed under the Creative Commons Attribution-Share Alike 3.0 Un-ported License.</tspan>
+        </text>
+    </g>
+</svg>

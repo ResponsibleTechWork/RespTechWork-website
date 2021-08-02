@@ -1,0 +1,82 @@
+{% assign section = include.section %}
+{% assign root_docs_path = site.data.doc_config['pledge'].root_docs_path %}
+{% assign doc_sections = site.data.doc_config['pledge'].sections %}
+{% assign pledge_group_1 = doc_sections | slice: 0 %}
+{% assign pledge_group_2 = doc_sections | slice: 1,3 %}
+{% assign pledge_group_3 = doc_sections | slice: 4,6 %}
+
+<section id="{{ section.section_id }}" class="block-pledges block-grid outer{% if section.title or section.subtitle %} has-header{% endif %}">
+  <div class="inner">
+    <div class="block-content">
+      <h2 class="pledge-group-intro">As a responsible tech worker, I pledge to...
+      </h2>
+      <div class="grid grid-col-1">
+        {% for doc_section in pledge_group_1 %}
+          {% assign doc_section_path = root_docs_path | path_join: doc_section %}
+          {% assign doc_section_page = doc_section_path | get_page %}
+          <div class="grid-item">
+            <div class="grid-item-inside">
+              <div class="pledge-num">{{ doc_section_page.weight }}</div>
+              <h3 class="grid-item-title"><a href="{{ doc_section_page.url | relative_url }}">{{ doc_section_page.title }}</a></h3>
+              {% assign excerpt_is_not_empty = doc_section_page.excerpt | is_not_empty %}
+              {% if excerpt_is_not_empty %}
+              <div class="grid-item-content">
+                <p>{{ doc_section_page.excerpt }}</p>
+              </div>
+              {% endif %}
+              <div class="grid-item-buttons">
+                <a href="{{ doc_section_page.url | relative_url }}">{{ section.more_link_text }}</a>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+
+      <h2 class="pledge-group-intro">Because I respect people, I pledge to ...</h2>
+      <div class="grid grid-col-3">
+        {% for doc_section in pledge_group_2 %}
+          {% assign doc_section_path = root_docs_path | path_join: doc_section %}
+          {% assign doc_section_page = doc_section_path | get_page %}
+          <div class="grid-item">
+            <div class="grid-item-inside">
+              <div class="pledge-num">{{ doc_section_page.weight }}</div>
+              <h3 class="grid-item-title"><a href="{{ doc_section_page.url | relative_url }}">{{ doc_section_page.title }}</a></h3>
+              {% assign excerpt_is_not_empty = doc_section_page.excerpt | is_not_empty %}
+              {% if excerpt_is_not_empty %}
+              <div class="grid-item-content">
+                <p>{{ doc_section_page.excerpt }}</p>
+              </div>
+              {% endif %}
+              <div class="grid-item-buttons">
+                <a href="{{ doc_section_page.url | relative_url }}">{{ section.more_link_text }}</a>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+
+      <h2 class="pledge-group-intro">Because I recognize the complexity & interconnectedness of the products we build, I pledge to...</h2>
+      <div class="grid grid-col-3">
+        {% for doc_section in pledge_group_3 %}
+          {% assign doc_section_path = root_docs_path | path_join: doc_section %}
+          {% assign doc_section_page = doc_section_path | get_page %}
+          <div class="grid-item">
+            <div class="grid-item-inside">
+              <div class="pledge-num">{{ doc_section_page.weight }}</div>
+              <h3 class="grid-item-title"><a href="{{ doc_section_page.url | relative_url }}">{{ doc_section_page.title }}</a></h3>
+              {% assign excerpt_is_not_empty = doc_section_page.excerpt | is_not_empty %}
+              {% if excerpt_is_not_empty %}
+              <div class="grid-item-content">
+                <p>{{ doc_section_page.excerpt }}</p>
+              </div>
+              {% endif %}
+              <div class="grid-item-buttons">
+                <a href="{{ doc_section_page.url | relative_url }}">{{ section.more_link_text }}</a>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section><!-- .block -->

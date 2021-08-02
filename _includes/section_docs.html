@@ -1,0 +1,44 @@
+{% assign section = include.section %}
+{% assign group = section.group %}
+
+{% assign root_docs_path = site.data.doc_config[group].root_docs_path %}
+{% assign doc_sections = site.data.doc_config[group].sections %}
+
+<section id="{{ section.section_id }}" class="block block-grid outer{% if section.title or section.subtitle %} has-header{% endif %}">
+  <div class="inner">
+    {% if section.title or section.subtitle %}
+    <div class="block-header inner-sm">
+      {% assign title_is_not_empty = section.title | is_not_empty %}
+      {% if title_is_not_empty %}
+      <h2 class="block-title">{{ section.title }}</h2>
+      {% endif %}
+      {% assign subtitle_is_not_empty = section.subtitle | is_not_empty %}
+      {% if subtitle_is_not_empty %}
+      <p class="block-subtitle">{{ section.subtitle }}</p>
+      {% endif %}
+    </div>
+    {% endif %}
+    <div class="block-content">
+      <div class="grid{% if section.col_number == 'two' %} grid-col-2{% endif %}{% if section.col_number == 'three' %} grid-col-3{% endif %}">
+        {% for doc_section in doc_sections %}
+          {% assign doc_section_path = root_docs_path | path_join: doc_section %}
+          {% assign doc_section_page = doc_section_path | get_page %}
+          <div class="grid-item">
+            <div class="grid-item-inside">
+              <h3 class="grid-item-title line-left"><a href="{{ doc_section_page.url | relative_url }}">{{ doc_section_page.title }}</a></h3>
+              {% assign excerpt_is_not_empty = doc_section_page.excerpt | is_not_empty %}
+              {% if excerpt_is_not_empty %}
+              <div class="grid-item-content">
+                <p>{{ doc_section_page.excerpt }}</p>
+              </div>
+              {% endif %}
+              <div class="grid-item-buttons">
+                <a href="{{ doc_section_page.url | relative_url }}">{% if section.more_link_text %}{{ section.more_link_text }}{% else %}Learn More{% endif %}</a>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section><!-- .block -->

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="770px" height="253px" viewBox="0 0 770 253" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Customer Development Process</title>
+    <g id="Customer-Development-Process" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pivot" transform="translate(97.000000, 179.000000)" fill="#242D3B">
+            <text id="Pivot" font-family="Lato-Bold, Lato" font-size="18" font-weight="bold">
+                <tspan x="72.535" y="60">Pivot</tspan>
+            </text>
+            <path id="Line" d="M186,2 C186.512836,2 186.935507,2.38604019 186.993272,2.88337887 L187,3 L187,52 L193,52 L186,66 L179,52 L185,52 L185,3 C185,2.44771525 185.447715,2 186,2 Z" fill-rule="nonzero"></path>
+            <path id="Line" d="M3.00449172e-05,-0.00775170508 L1.99996996,0.00775170508 L1.608,50.508 L7.60831356,50.5546826 L0.5,64.5 L-6.39126581,50.4461587 L-0.391,50.492 L3.00449172e-05,-0.00775170508 Z" fill-rule="nonzero"></path>
+            <path id="Line-2" d="M14.5,59.5 L14.5,65.5 L186.5,65.5 L186.5,67.5 L14.5,67.5 L14.5,73.5 L0.5,66.5 L14.5,59.5 Z" fill-rule="nonzero"></path>
+        </g>
+        <g id="search" transform="translate(1.000000, -3.000000)">
+            <g id="discovery" transform="translate(24.000000, 38.000000)">
+                <circle id="Oval" stroke="#242D3B" stroke-width="2" cx="73" cy="73" r="73"></circle>
+                <polygon id="Triangle" fill="#242D3B" transform="translate(119.000000, 17.000000) rotate(125.000000) translate(-119.000000, -17.000000) " points="119 10 126 24 112 24"></polygon>
+                <polygon id="Triangle" fill="#242D3B" transform="translate(26.000000, 129.000000) rotate(-53.000000) translate(-26.000000, -129.000000) " points="26 122 33 136 19 136"></polygon>
+                <text id="Customer-Discovery" font-family="Lato-Bold, Lato" font-size="18" font-weight="bold" fill="#242D3B">
+                    <tspan x="32.7515" y="72">Customer </tspan>
+                    <tspan x="31.901" y="94">Discovery</tspan>
+                </text>
+                <g id="STOP" transform="translate(127.000000, 59.000000)">
+                    <path id="Line-3" d="M45.5,9.5 L59.5,16.5 L45.5,23.5 L45.5,17.5 L32.5,17.5 L32.5,15.5 L45.5,15.5 L45.5,9.5 Z" fill="#242D3B" fill-rule="nonzero"></path>
+                    <polygon id="Path" fill="#242D3B" fill-rule="nonzero" points="34 9.95444444 34 24.0455556 24.0455556 34 9.95444444 34 0 24.0455556 0 9.95444444 9.95444444 0 24.0455556 0"></polygon>
+                    <text font-family="Lato-Bold, Lato" font-size="12" font-weight="bold" letter-spacing="-0.308" fill="#FFFFFF">
+                        <tspan x="2.514" y="21">STOP</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="validation" transform="translate(211.000000, 38.000000)">
+                <circle id="Oval" stroke="#242D3B" stroke-width="2" cx="73" cy="73" r="73"></circle>
+                <polygon id="Triangle" fill="#242D3B" transform="translate(119.000000, 17.000000) rotate(125.000000) translate(-119.000000, -17.000000) " points="119 10 126 24 112 24"></polygon>
+                <polygon id="Triangle" fill="#242D3B" transform="translate(26.000000, 129.000000) rotate(-53.000000) translate(-26.000000, -129.000000) " points="26 122 33 136 19 136"></polygon>
+                <text id="Customer-Validation" font-family="Lato-Bold, Lato" font-size="18" font-weight="bold" fill="#242D3B">
+                    <tspan x="32.7515" y="72">Customer </tspan>
+                    <tspan x="30.524" y="94">Validation</tspan>
+                </text>
+                <g id="STOP" transform="translate(128.000000, 59.000000)">
+                    <path id="Line-3" d="M58.912521,9.17776173 L73,16 L59.089722,23.1766403 L59.013,17.177 L33.5126572,17.4999199 L32.5127373,17.5125771 L32.4874229,15.5127373 L33.4873428,15.5000801 L58.988,15.177 L58.912521,9.17776173 Z" fill="#242D3B" fill-rule="nonzero"></path>
+                    <polygon id="Path" fill="#242D3B" fill-rule="nonzero" points="34 9.95444444 34 24.0455556 24.0455556 34 9.95444444 34 0 24.0455556 0 9.95444444 9.95444444 0 24.0455556 0"></polygon>
+                    <text font-family="Lato-Bold, Lato" font-size="12" font-weight="bold" letter-spacing="-0.308" fill="#FFFFFF">
+                        <tspan x="2.514" y="21">STOP</tspan>
+                    </text>
+                </g>
+            </g>
+            <rect id="Rectangle" stroke="#242D3B" stroke-width="2" x="0" y="21" width="380" height="180"></rect>
+            <text id="Search" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" fill="#242D3B">
+                <tspan x="166.112" y="16">Search</tspan>
+            </text>
+        </g>
+        <g id="execute" transform="translate(389.000000, -3.000000)">
+            <g id="creation" transform="translate(24.000000, 38.000000)">
+                <circle id="Oval" stroke="#242D3B" stroke-width="2" cx="73" cy="73" r="73"></circle>
+                <polygon id="Triangle" fill="#242D3B" transform="translate(119.000000, 17.000000) rotate(125.000000) translate(-119.000000, -17.000000) " points="119 10 126 24 112 24"></polygon>
+                <polygon id="Triangle" fill="#242D3B" transform="translate(26.000000, 129.000000) rotate(-53.000000) translate(-26.000000, -129.000000) " points="26 122 33 136 19 136"></polygon>
+                <text id="Customer-Creation" font-family="Lato-Bold, Lato" font-size="18" font-weight="bold" fill="#242D3B">
+                    <tspan x="32.7515" y="72">Customer </tspan>
+                    <tspan x="37.112" y="94">Creation</tspan>
+                </text>
+                <g id="STOP" transform="translate(128.000000, 59.000000)">
+                    <path id="Line-3" d="M45.5,9.5 L59.5,16.5 L45.5,23.5 L45.5,17.5 L32.5,17.5 L32.5,15.5 L45.5,15.5 L45.5,9.5 Z" fill="#242D3B" fill-rule="nonzero"></path>
+                    <polygon id="Path" fill="#242D3B" fill-rule="nonzero" points="34 9.95444444 34 24.0455556 24.0455556 34 9.95444444 34 0 24.0455556 0 9.95444444 9.95444444 0 24.0455556 0"></polygon>
+                    <text font-family="Lato-Bold, Lato" font-size="12" font-weight="bold" letter-spacing="-0.308" fill="#FFFFFF">
+                        <tspan x="2.514" y="21">STOP</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="building" transform="translate(211.000000, 38.000000)">
+                <circle id="Oval" stroke="#242D3B" stroke-width="2" cx="73" cy="73" r="73"></circle>
+                <polygon id="Triangle" fill="#242D3B" transform="translate(119.000000, 17.000000) rotate(125.000000) translate(-119.000000, -17.000000) " points="119 10 126 24 112 24"></polygon>
+                <polygon id="Triangle" fill="#242D3B" transform="translate(26.000000, 129.000000) rotate(-53.000000) translate(-26.000000, -129.000000) " points="26 122 33 136 19 136"></polygon>
+                <text id="Company-Building" font-family="Lato-Bold, Lato" font-size="18" font-weight="bold" fill="#242D3B">
+                    <tspan x="34.052" y="72">Company </tspan>
+                    <tspan x="39.299" y="94">Building</tspan>
+                </text>
+            </g>
+            <rect id="Rectangle" stroke="#242D3B" stroke-width="2" x="0" y="21" width="380" height="180"></rect>
+            <text id="Execute" font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" fill="#242D3B">
+                <tspan x="161.588" y="16">Execute</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

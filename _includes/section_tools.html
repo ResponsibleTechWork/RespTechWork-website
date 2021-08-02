@@ -1,0 +1,31 @@
+{% assign section = include.section %}
+
+{% include tools_cats_menu.html %}
+
+<section id="tools" class="block block-grid outer">
+  <div class="inner">        
+    <div class="block-content">
+      <div class="grid grid-col-3">
+        {% for tool in paginator.posts %}         
+        <div class="grid-item">
+          <div class="grid-item-inside">
+            <h3 class="grid-item-title"><a class="post-link" href="{{ tool.url | relative_url }}">{{ tool.title | escape }}</a></h3>
+            <div class="grid-item-content">
+              {% assign excerpt_is_not_empty = tool.excerpt | is_not_empty %}
+              {% if excerpt_is_not_empty %}
+              <p class="post-excerpt">{{ tool.excerpt }}</p>
+              {% endif %}
+            </div>
+            <div class="grid-item-buttons">
+              <a class="read-more-link" href="{{ tool.url | relative_url }}">{{ section.more_link_text }}</a>
+            </div>
+            <div class="tool-meta">Category: <a href="/tools/{{ tool.category | slugify | downcase }}">{{ tool.category | capitalize }}</a></div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+      {% include pagination.html paginator=paginator %}
+      <p class="rss-subscribe">Subscribe to new tools <a href="{{ "/tools/feed.xml" | relative_url }}">via RSS</a></p>
+    </div> <!-- .block-content -->
+  </div> <!-- .inner -->
+</section>

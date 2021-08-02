@@ -1,0 +1,13 @@
+<figure>
+    {% if include.url %}
+    <a href="{{ include.url }}">
+    {% endif %}
+    <img src="{{ site.baseurl }}/assets/img/{{include.img}}"
+    alt="{{ include.alt }}">
+    {% if include.url %}
+    </a>
+    {% endif %}
+    {% if include.caption %}
+        <figcaption>{{ include.caption }}{% if include.source and include.url %}<br/>Source: <a href="{{ include.url }}">{{ include.source }}</a>{% endif %}</figcaption>
+    {% endif %}
+</figure>

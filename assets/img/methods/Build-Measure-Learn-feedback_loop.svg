@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="621px" height="429px" viewBox="0 0 621 429" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Build-Measure-Learn</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="180" height="78" rx="3"></rect>
+        <rect id="path-3" x="0" y="0" width="146" height="49" rx="3"></rect>
+        <rect id="path-5" x="0" y="0" width="182" height="35" rx="3"></rect>
+        <rect id="path-7" x="0" y="0" width="132" height="50" rx="3"></rect>
+    </defs>
+    <g id="Build-Measure-Learn" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path id="Path-3" d="M226.934468,53.2245347 L240.69596,53.6533255 L242.472875,53.708692 L241.502828,55.1984917 L233.990209,66.736388 L232.314184,65.6450855 L237.744,57.306 L230.554756,61.060107 C191.906189,82.2390426 167.556459,107.992901 157.448683,138.316228 C146.291143,171.788849 143.736375,205.085913 149.780393,238.222759 L149.982762,239.315124 L148.017238,239.684876 C141.652068,205.848971 144.164801,171.84332 155.551317,137.683772 C165.731638,107.142807 190.041649,81.2332224 228.443313,59.9405451 L229.611313,59.2967256 L236.817,55.533 L226.872181,55.2235645 L226.934468,53.2245347 Z" fill="#242D3B" fill-rule="nonzero"></path>
+        <path id="Path-2" d="M450.148342,257.975903 L451.851658,259.024097 C422.395394,306.890527 384.867999,337.716602 339.288639,351.457438 C297.00477,364.204781 254.28898,355.648212 211.198623,325.827607 L209.89274,324.917444 L203.377,320.123 L207.471942,329.192969 L205.649055,330.015819 L199.984481,317.466911 L199.253058,315.846567 L201.017622,316.062918 L214.683456,317.738472 L214.440061,319.723606 L204.563,318.512 L211.059925,323.293505 C254.096052,353.500009 296.620765,362.231639 338.711361,349.542562 C383.798668,335.950065 420.937939,305.442806 450.148342,257.975903 Z" fill="#242D3B" fill-rule="nonzero"></path>
+        <path id="Path" d="M301.57239,39.5026236 C343.118862,42.5180934 379.488953,57.4348585 410.652133,84.2418954 C439.173329,108.776258 454.672796,142.691715 457.14826,185.948253 L457.219288,187.261917 L457.422,195.409 L462.083097,186.616455 L463.850215,187.553095 L457.402308,199.718085 L456.569739,201.288857 L455.659702,199.761662 L448.611828,187.934153 L450.329922,186.91036 L455.423,195.459 L455.220895,187.33778 C453.01395,144.005247 437.724049,110.167723 409.347867,85.7581046 C378.819416,59.4970711 343.266557,44.7780823 302.659669,41.5904419 L301.42761,41.4973764 L301.57239,39.5026236 Z" fill="#242D3B" fill-rule="nonzero"></path>
+        <g id="LEARN" transform="translate(120.000000, 77.000000)">
+            <circle id="Oval" stroke="#242D3B" fill="#EEEEF0" cx="52" cy="52" r="52"></circle>
+            <text font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" fill="#242D3B">
+                <tspan x="26.316" y="58">LEARN</tspan>
+            </text>
+        </g>
+        <g id="DATA" transform="translate(122.000000, 215.000000)">
+            <circle id="Oval" fill="#242D3B" cx="43.5" cy="43.5" r="43.5"></circle>
+            <text font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" fill="#FFFFFF">
+                <tspan x="20.9" y="50">DATA</tspan>
+            </text>
+        </g>
+        <g id="responsible-metrics" transform="translate(360.000000, 350.000000)">
+            <g id="advice">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Rectangle" fill="#F1F6FB" xlink:href="#path-1"></use>
+                <line x1="2.5" y1="2.5" x2="2.5" y2="75.5" id="Line-4" stroke="#5EA756" stroke-width="5" stroke-linecap="round"></line>
+            </g>
+            <text id="•-Responsible-metric" font-family="Lato-Regular, Lato" font-size="16" font-weight="normal" fill="#242D3B">
+                <tspan x="11" y="21">	• 	Responsible metrics</tspan>
+                <tspan x="11" y="46">	• 	People’s well-being</tspan>
+                <tspan x="11" y="71">	• 	Carbon footprint</tspan>
+            </text>
+        </g>
+        <g id="MEASURE" transform="translate(249.000000, 294.000000)">
+            <circle id="Oval" stroke="#242D3B" fill="#EEEEF0" cx="52" cy="52" r="52"></circle>
+            <text font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" fill="#242D3B">
+                <tspan x="14.364" y="58">MEASURE</tspan>
+            </text>
+        </g>
+        <g id="PRODUCT" transform="translate(402.000000, 215.000000)">
+            <circle id="Oval" fill="#242D3B" cx="43.5" cy="43.5" r="43.5"></circle>
+            <text font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" fill="#FFFFFF">
+                <tspan x="5.436" y="50">PRODUCT</tspan>
+            </text>
+        </g>
+        <g id="low-impact-MVP" transform="translate(475.000000, 141.000000)">
+            <g id="advice">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Rectangle" fill="#F1F6FB" xlink:href="#path-3"></use>
+                <line x1="2.5" y1="2.5" x2="2.5" y2="46.5" id="Line-4" stroke="#5EA756" stroke-width="5" stroke-linecap="round"></line>
+            </g>
+            <text id="Low-tech-and-low-imp" font-family="Lato-Regular, Lato" font-size="16" font-weight="normal" fill="#242D3B">
+                <tspan x="13" y="22">Low-tech and </tspan>
+                <tspan x="13" y="41">low-impact MVPs</tspan>
+            </text>
+        </g>
+        <g id="BUILD" transform="translate(379.000000, 54.000000)">
+            <circle id="Oval" stroke="#242D3B" fill="#EEEEF0" cx="52" cy="52" r="52"></circle>
+            <text font-family="Lato-Bold, Lato" font-size="16" font-weight="bold" fill="#242D3B">
+                <tspan x="28.336" y="58">BUILD</tspan>
+            </text>
+        </g>
+        <g id="IDEAS" transform="translate(258.000000, 0.000000)">
+            <circle id="Oval" fill="#242D3B" cx="43.5" cy="43.5" r="43.5"></circle>
+            <text font-family="Lato-Bold, Lato" font-size="18" font-weight="bold" fill="#FFFFFF">
+                <tspan x="18" y="51">IDEAS</tspan>
+            </text>
+        </g>
+        <g id="impact-canvas" transform="translate(351.000000, 7.000000)">
+            <g id="advice">
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <use id="Rectangle" fill="#F1F6FB" xlink:href="#path-5"></use>
+                <line x1="2.5" y1="2.5" x2="2.5" y2="32.5" id="Line-4" stroke="#5EA756" stroke-width="5" stroke-linecap="round"></line>
+            </g>
+            <text id="Use-an-improved-canv" font-family="Lato-Regular, Lato" font-size="16" font-weight="normal" letter-spacing="-0.277333333" fill="#242D3B">
+                <tspan x="13" y="22">Use an improved canvas</tspan>
+            </text>
+        </g>
+        <g id="impact-hypothesis" transform="translate(1.000000, 40.000000)">
+            <g id="advice">
+                <mask id="mask-8" fill="white">
+                    <use xlink:href="#path-7"></use>
+                </mask>
+                <use id="Rectangle" fill="#F1F6FB" xlink:href="#path-7"></use>
+                <line x1="1.5" y1="2.5" x2="1.5" y2="47.5" id="Line-4" stroke="#5EA756" stroke-width="5" stroke-linecap="round"></line>
+            </g>
+            <text id="Test-the-impact-hypo" font-family="Lato-Regular, Lato" font-size="16" font-weight="normal" fill="#242D3B">
+                <tspan x="12" y="22">Test the impact </tspan>
+                <tspan x="12" y="41">hypothesis</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

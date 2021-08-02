@@ -1,0 +1,17 @@
+{% assign section = include.section %}
+<section id="{{ section.section_id }}" class="block block-plain outer">
+  <div class="inner-sm">
+    {% assign title_is_not_empty = section.title | is_not_empty %}
+    {% if title_is_not_empty %}
+    <div class="block-header">
+      <h1 class="block-title">{{ section.title }}{% if page.autopages %} | {{page.autopages.display_name | capitalize}}{% endif %}</h1> 
+    </div>
+    {% endif %}
+    {% assign content_is_not_empty = section.content | is_not_empty %}
+    {% if content_is_not_empty %}
+    <div class="block-content">
+      {{ section.content | markdownify }}
+    </div>
+    {% endif %}
+  </div>
+</section><!-- .block -->

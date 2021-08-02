@@ -1,0 +1,11 @@
+{% assign page = include.page %}
+<ul class="{{ include.menu_class }}">
+{% for action in include.submenu %}
+  {% assign page_url = page.url | trim: '/' %}
+  {% assign action_url = action.url | trim: '/' %}
+  <li class="menu-item{% if page_url == action_url %} current{% endif %}{% if action.style != 'link' %} menu-button{% endif %}">
+    
+    {% include action_link.html action=action %}
+  </li>
+{% endfor %}
+</ul>

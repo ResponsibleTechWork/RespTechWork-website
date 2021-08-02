@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+    <head>    
+
+        <title>{% assign title_is_not_empty = page.seo.title | is_not_empty %}{% if title_is_not_empty %}{{ page.seo.title }}{% else %}{{ page.title | append: ' | ' | append: site.data.config.title }}{% endif %}</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        {% seo %}
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="{{ 'assets/main.css' | relative_url }}">
+        
+        <link rel="apple-touch-icon" sizes="180x180" href="{{ 'assets/img/icons/apple-touch-icon.png' | relative_url }}">
+        <link rel="icon" type="image/png" sizes="32x32" href="{{ 'assets/img/icons/favicon-32x32.png' | relative_url }}">
+        <link rel="icon" type="image/png" sizes="16x16" href="{{ 'assets/img/icons/favicon-16x16.png' | relative_url }}">
+        <link rel="manifest" href="{{ 'assets/img/icons/site.webmanifest' | relative_url }}">
+        <link rel="mask-icon" href="{{ 'assets/img/icons/safari-pinned-tab.svg' | relative_url }}" color="#2c82c9">
+        <link rel="shortcut icon" href="{{ 'assets/img/icons/favicon.ico' | relative_url }}">
+        <meta name="msapplication-TileColor" content="#2c82c9">
+        <meta name="msapplication-config" content="{{ 'assets/img/icons/browserconfig.xml' | relative_url }}">
+        <meta name="theme-color" content="#ffffff">
+    </head>
+    <body>
+        
+        {{ content }}
+        <!-- Scripts -->
+        <script src="{{ 'assets/js/plugins.js' | relative_url }}"></script>
+        <script src="{{ 'assets/js/main.js' | relative_url }}"></script>
+        <script src="{{ 'assets/js/page-load.js' | relative_url }}"></script>
+    </body> 
+</html>

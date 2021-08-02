@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="648px" height="475px" viewBox="0 0 648 475" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Pledges overview</title>
+    <g id="Pledges-overview" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="648" height="475"></rect>
+        <rect id="Rectangle" stroke="#242D3B" stroke-width="2" x="2" y="349" width="155" height="125" rx="10"></rect>
+        <rect id="Rectangle" stroke="#242D3B" stroke-width="2" x="172" y="349" width="155" height="125" rx="10"></rect>
+        <rect id="Rectangle" stroke="#242D3B" stroke-width="2" x="341" y="349" width="155" height="125" rx="10"></rect>
+        <rect id="Ethics" fill="#2C82C9" x="471" y="381" width="15" height="15"></rect>
+        <text id="TAKE-PERSONAL-RESPON" font-family="Lato-Bold, Lato" font-size="19" font-weight="bold" fill="#242D3B">
+            <tspan x="353" y="394">TAKE </tspan>
+            <tspan x="353" y="417">PERSONAL </tspan>
+            <tspan x="353" y="440">RESPONS.</tspan>
+        </text>
+        <circle id="Inclusion" fill="#F5D51E" cx="310.5" cy="388.5" r="7.5"></circle>
+        <text id="SEEK-A-DIVERSE-TEAM" font-family="Lato-Bold, Lato" font-size="19" font-weight="bold" fill="#242D3B">
+            <tspan x="185" y="394">SEEK A </tspan>
+            <tspan x="185" y="417">DIVERSE </tspan>
+            <tspan x="185" y="440">TEAM</tspan>
+        </text>
+        <polygon id="Sustainability" fill="#5EA756" points="138.5 381 146 396 131 396"></polygon>
+        <text id="CONSIDER-ENV.-IMPACT" font-family="Lato-Bold, Lato" font-size="19" font-weight="bold" fill="#242D3B">
+            <tspan x="11" y="394">CONSIDER </tspan>
+            <tspan x="11" y="417">ENV. </tspan>
+            <tspan x="11" y="440">IMPACTS</tspan>
+        </text>
+        <text id="Because-I-recognize" font-family="Lato-Regular, Lato" font-size="18" font-weight="normal" fill="#242D3B">
+            <tspan x="11" y="316">Because I recognize the complexity &amp; interconnectedness of </tspan>
+            <tspan x="11" y="338">the products we build, I pledge to ...</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#242D3B" stroke-width="2" x="1" y="159" width="155" height="125" rx="10"></rect>
+        <rect id="Rectangle" stroke="#242D3B" stroke-width="2" x="171" y="159" width="155" height="125" rx="10"></rect>
+        <rect id="Rectangle" stroke="#242D3B" stroke-width="2" x="340" y="159" width="155" height="125" rx="10"></rect>
+        <g id="symbols" transform="translate(471.000000, 190.000000)">
+            <rect id="Ethics" fill="#2C82C9" x="0" y="0" width="15" height="15"></rect>
+            <circle id="Inclusion" fill="#F5D51E" cx="7.5" cy="31.5" r="7.5"></circle>
+        </g>
+        <text id="CONSIDER-SOCIAL-IMPA" font-family="Lato-Bold, Lato" font-size="19" font-weight="bold" fill="#242D3B">
+            <tspan x="353" y="205">CONSIDER </tspan>
+            <tspan x="353" y="228">SOCIAL </tspan>
+            <tspan x="353" y="251">IMPACTS</tspan>
+        </text>
+        <g id="symbols" transform="translate(303.000000, 190.000000)">
+            <rect id="Ethics" fill="#2C82C9" x="0" y="0" width="15" height="15"></rect>
+            <circle id="Inclusion" fill="#F5D51E" cx="7.5" cy="31.5" r="7.5"></circle>
+            <polygon id="Sustainability" fill="#5EA756" points="7.5 48 15 63 0 63"></polygon>
+        </g>
+        <text id="MAKE-ACCESSIBLE-TECH" font-family="Lato-Bold, Lato" font-size="19" font-weight="bold" fill="#242D3B">
+            <tspan x="185" y="206">MAKE </tspan>
+            <tspan x="185" y="229">ACCESSIBLE </tspan>
+            <tspan x="185" y="252">TECH </tspan>
+        </text>
+        <g id="symbols" transform="translate(131.000000, 190.000000)">
+            <rect id="Ethics" fill="#2C82C9" x="0" y="0" width="15" height="15"></rect>
+            <circle id="Inclusion" fill="#F5D51E" cx="7.5" cy="31.5" r="7.5"></circle>
+        </g>
+        <text id="PROTECT-AGAINST-ABUS" font-family="Lato-Bold, Lato" font-size="19" font-weight="bold" fill="#242D3B">
+            <tspan x="11" y="205">PROTECT </tspan>
+            <tspan x="11" y="228">AGAINST </tspan>
+            <tspan x="11" y="251">ABUSE</tspan>
+        </text>
+        <text id="Because-I-respect-pe" font-family="Lato-Regular, Lato" font-size="18" font-weight="normal" fill="#242D3B">
+            <tspan x="11" y="148">Because I respect people, I pledge to ...</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#242D3B" stroke-width="2" x="1" y="25" width="494" height="90" rx="10"></rect>
+        <g id="symbols" transform="translate(457.000000, 39.000000)">
+            <rect id="Ethics" fill="#2C82C9" x="0" y="0" width="15" height="15"></rect>
+            <circle id="Inclusion" fill="#F5D51E" cx="7.5" cy="31.5" r="7.5"></circle>
+            <polygon id="Sustainability" fill="#5EA756" points="7.5 48 15 63 0 63"></polygon>
+        </g>
+        <text id="RESPECT-PEOPLE" font-family="Lato-Bold, Lato" font-size="19" font-weight="bold" fill="#242D3B">
+            <tspan x="166" y="78">RESPECT PEOPLE</tspan>
+        </text>
+        <text id="As-a-responsible-tec" font-family="Lato-Regular, Lato" font-size="18" font-weight="normal" fill="#242D3B">
+            <tspan x="11" y="14">As a responsible tech worker, I pledge to ...</tspan>
+        </text>
+        <g id="legend" transform="translate(534.000000, 154.000000)">
+            <rect id="Ethics" fill="#2C82C9" x="0" y="36" width="15" height="15"></rect>
+            <circle id="Inclusion" fill="#F5D51E" cx="7.5" cy="67.5" r="7.5"></circle>
+            <polygon id="Sustainability" fill="#5EA756" points="7.5 84 15 99 0 99"></polygon>
+            <text id="Ethics-Inclusivity-S" font-family="Lato-Light, Lato" font-size="16" font-weight="300" line-spacing="22" fill="#242D3B">
+                <tspan x="23" y="48">Ethics</tspan>
+                <tspan x="23" y="72">Inclusivity</tspan>
+                <tspan x="23" y="96">Sustainability</tspan>
+            </text>
+            <text id="Primary-area:" font-family="Lato-Light, Lato" font-size="16" font-weight="300" fill="#242D3B">
+                <tspan x="0" y="16">Primary area:</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

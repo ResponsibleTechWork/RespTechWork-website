@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="767px" height="407px" viewBox="0 0 767 407" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Customer Discovery</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="189" height="201" rx="3"></rect>
+        <rect id="path-3" x="0" y="0" width="180" height="35" rx="3"></rect>
+    </defs>
+    <g id="Customer-Discovery" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" stroke="#242D3B" stroke-width="2" cx="61" cy="75.5" r="59.5"></circle>
+        <line x1="64" y1="16" x2="310" y2="2" id="Line-2" stroke="#242D3B" stroke-width="2" stroke-linecap="round"></line>
+        <line x1="13" y1="111" x2="98" y2="232" id="Line" stroke="#242D3B" stroke-width="2" stroke-linecap="round"></line>
+        <g id="other-suggestions" transform="translate(275.000000, 105.000000)">
+            <g id="advice">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Rectangle" fill="#F1F6FB" xlink:href="#path-1"></use>
+                <line x1="1.5" y1="2.47129187" x2="1.5" y2="198.528708" id="Line-4" stroke="#5EA756" stroke-width="5" stroke-linecap="round"></line>
+            </g>
+            <text id="•-Low-tech-and-low-i" font-family="Lato-Regular, Lato" font-size="16" font-weight="normal" fill="#242D3B">
+                <tspan x="14" y="20">	• 	Low-tech and          </tspan>
+                <tspan x="50" y="39">low-impact MVPs</tspan>
+                <tspan x="14" y="66">	• 	Responsible </tspan>
+                <tspan x="50" y="85">metrics</tspan>
+                <tspan x="14" y="112">	• 	People’s well-being</tspan>
+                <tspan x="14" y="139">	• 	Carbon footprint</tspan>
+                <tspan x="14" y="166">	• 	Test the impact </tspan>
+                <tspan x="50" y="185">hypothesis</tspan>
+            </text>
+        </g>
+        <path d="M122.5,235 C169.833333,205.666667 205,172.333333 228,135 C251,97.6666667 262.5,53.1666667 262.5,1.5 L369.5,1.5 C369.5,64.1666667 351.666667,119.166667 316,166.5 C290.102809,200.868235 251.2994,224.964855 195,233.5 C181.666667,235.166667 157.5,235.666667 122.5,235 Z" id="R-down" stroke="#242D3B" stroke-width="2" fill="#E0E0E4" transform="translate(246.000000, 118.392857) rotate(180.000000) translate(-246.000000, -118.392857) "></path>
+        <text id="Phase-3-Test-the-Sol" font-family="Lato-Regular, Lato" font-size="16" font-weight="normal" fill="#242D3B">
+            <tspan x="178.02" y="99">Phase 3</tspan>
+            <tspan x="167.043" y="121" font-family="Lato-Bold, Lato" font-size="18" font-weight="bold">Test the</tspan>
+            <tspan x="165.189" y="146" font-family="Lato-Bold, Lato" font-size="18" font-weight="bold">Solution</tspan>
+        </text>
+        <path d="M484.5,82 L537,82 L412,2 L318,82 L374.5,82 C386.5,120 404.333333,152 428,178 C451.666667,204 487.333333,221.333333 535,230 L644,230 C596.666667,219.333333 560.333333,200.666667 535,174 C509.666667,147.333333 492.833333,116.666667 484.5,82 Z" id="L-up" stroke="#242D3B" stroke-width="2" fill="#EEEEF0" transform="translate(481.000000, 116.000000) rotate(180.000000) translate(-481.000000, -116.000000) "></path>
+        <text id="Phase-4-Verify-or-Pi" font-family="Lato-Regular, Lato" font-size="16" font-weight="normal" fill="#242D3B">
+            <tspan x="490.5" y="98">Phase 4</tspan>
+            <tspan x="544.98" y="98" font-family="Lato-Bold, Lato" font-size="18" font-weight="bold">   </tspan>
+            <tspan x="490.5" y="120" font-family="Lato-Bold, Lato" font-size="18" font-weight="bold">Verify </tspan>
+            <tspan x="490.5" y="145" font-family="Lato-Bold, Lato" font-size="18" font-weight="bold">or Pivot</tspan>
+        </text>
+        <path d="M343.5,404 C390.833333,374.666667 426,341.333333 449,304 C472,266.666667 483.5,222.166667 483.5,170.5 L590.5,170.5 C590.5,233.166667 572.666667,288.166667 537,335.5 C511.102809,369.868235 472.2994,393.964855 416,402.5 C402.666667,404.166667 378.5,404.666667 343.5,404 Z" id="R-down" stroke="#242D3B" stroke-width="2" fill="#E0E0E4"></path>
+        <rect id="Rectangle" fill="#E0E0E4" x="568" y="258" width="65" height="15" rx="1"></rect>
+        <rect id="Rectangle" fill="#E0E0E4" x="558" y="283" width="51" height="15" rx="1"></rect>
+        <rect id="Rectangle" fill="#E0E0E4" x="544" y="305" width="61" height="15" rx="1"></rect>
+        <text id="Phase-1-State-Hypoth" fill-rule="nonzero" font-family="Lato-Regular, Lato" font-size="16" font-weight="normal" fill="#242D3B">
+            <tspan x="490.5" y="248">Phase 1</tspan>
+            <tspan x="490.5" y="270" font-family="Lato-Bold, Lato" font-size="18" font-weight="bold">State Hypotheses</tspan>
+            <tspan x="490.5" y="295" font-family="Lato-Bold, Lato" font-size="18" font-weight="bold">Draw Business </tspan>
+            <tspan x="490.5" y="317" font-family="Lato-Bold, Lato" font-size="18" font-weight="bold">Model Canvas</tspan>
+        </text>
+        <path d="M236.5,256 L289,256 L164,176 L70,256 L126.5,256 C138.5,294 156.333333,326 180,352 C203.666667,378 239.333333,395.333333 287,404 L389,404 L395.5,403 C348.5,393 312.333333,374.666667 287,348 C261.666667,321.333333 244.833333,290.666667 236.5,256 Z" id="L-down" stroke="#242D3B" stroke-width="2" fill="#EEEEF0"></path>
+        <text id="Phase-2-Test-the-Pro" font-family="Lato-Regular, Lato" font-size="16" font-weight="normal" fill="#242D3B">
+            <tspan x="154.5" y="252">Phase 2</tspan>
+            <tspan x="154.5" y="274" font-family="Lato-Bold, Lato" font-size="18" font-weight="bold">Test the </tspan>
+            <tspan x="154.5" y="296" font-family="Lato-Bold, Lato" font-size="18" font-weight="bold">Problem</tspan>
+        </text>
+        <text id="Customer-Validation" font-family="Lato-Bold, Lato" font-size="18" font-weight="bold" fill="#242D3B">
+            <tspan x="669.7515" y="126">Customer </tspan>
+            <tspan x="667.524" y="148">Validation</tspan>
+        </text>
+        <polygon id="Path-4" fill="#242D3B" points="653 181.5 653 219.5 719 219.5 719 240.5 765.5 200.5 719 160 719 181.5"></polygon>
+        <text font-family="Lato-Bold, Lato" font-size="18" font-weight="bold" fill="#242D3B">
+            <tspan x="20.7515" y="71">Customer </tspan>
+            <tspan x="19.901" y="93">Discovery</tspan>
+        </text>
+        <g id="impact-canvas" transform="translate(558.000000, 330.000000)">
+            <g id="advice">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Rectangle" fill="#F1F6FB" xlink:href="#path-3"></use>
+                <line x1="1.5" y1="2.5" x2="1.5" y2="32.5" id="Line-4" stroke="#5EA756" stroke-width="5" stroke-linecap="round"></line>
+            </g>
+            <text id="Use-an-improved-canv" font-family="Lato-Regular, Lato" font-size="16" font-weight="normal" letter-spacing="-0.277333333" fill="#242D3B">
+                <tspan x="12" y="24">Use an improved canvas</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

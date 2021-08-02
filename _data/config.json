@@ -1,0 +1,72 @@
+{
+    "title": "ResponsibleTech.Work",
+    "header": {
+        "title": "ResponsibleTech.Work framework",
+        "logo_img": "assets/img/logo.svg",
+        "logo_img_alt": "ResponsibleTech.Work logo",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "The Pledges",
+                "url": "/responsible-pledges",
+                "style": "link",
+                "has_subnav": false
+            },
+            {
+                "label": "Methodologies",
+                "url": "/methodologies",
+                "style": "link",
+                "has_subnav": false
+            },
+            {
+                "label": "Tools",
+                "url": "/tools",
+                "style": "link",
+                "has_subnav": false
+            },
+            {
+                "label": "Resources",
+                "url": "/resources",
+                "style": "link",
+                "has_subnav": false
+            },
+            {
+                "label": "Blog",
+                "url": "/blog",
+                "style": "link",
+                "has_subnav": false
+            }
+        ]
+    },
+    "footer": {
+        "nav_links": [
+            {
+                "label": "About",
+                "url": "/about",
+                "style": "link"
+            },
+            {
+                "label": "Contribute",
+                "url": "/contribute",
+                "style": "link"
+            }
+        ],
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/RespTechWork",
+                "style": "icon",
+                "icon_class": "twitter",
+                "new_window": true
+            },
+            {
+                "label": "GitHub",
+                "url": "https://github.com/ResponsibleTechWork",
+                "style": "icon",
+                "icon_class": "github",
+                "new_window": true
+            }
+        ]
+    }
+}
