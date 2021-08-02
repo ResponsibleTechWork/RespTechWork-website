@@ -47,7 +47,7 @@ sections:
   - section_id: what-is-responsible
     type: section_content
     title: What is responsible product development?
-    image: assets/img/responsible_product_development.svg
+    image: assets/img/responsible_product_development.webp
     image_position: left
     content: >-
       <p>Responsible product development <strong>acknowledges the great power</strong> digital products have over people’s lives, the <strong>hidden social and environmental costs</strong> of digital products, and <strong>actively seeks better solutions</strong> for people and the planet.</p>
@@ -68,7 +68,7 @@ sections:
         style: primary
   - section_id: the-goal
     type: section_content
-    image: assets/img/responsible_product_decisions.svg
+    image: assets/img/responsible_product_decisions.webp
     image_position: right
     title: The Goal
     content: >-

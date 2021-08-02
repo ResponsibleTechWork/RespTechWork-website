@@ -21,7 +21,7 @@ The most influential and well-known tool is the [Business Model Canvas](https://
 - **Key Partnerships**: What partners, suppliers, activities, and resources are needed from the outside?
 - **Cost Structure**: What are the main costs of resources and activities needed for the business?
 
-{% include img.html img="/methods/Business_Model_Canvas.svg" alt="A graphic showing the described Business Model Canvas." caption="The Business Model Canvas with nine blocks that define a business model." url="https://www.strategyzer.com/canvas/business-model-canvas" source="Strategyzer" %}
+{% include img.html img="/methods/Business_Model_Canvas.webp" alt="A graphic showing the described Business Model Canvas." caption="The Business Model Canvas with nine blocks that define a business model." url="https://www.strategyzer.com/canvas/business-model-canvas" source="Strategyzer" %}
 
 The Business Model Canvas (or the [Lean Canvas](/methodologies/startups/the-lean-startup.html#the-lean-canvas), its startup adaptation) is also used to keep track of hypotheses a startup is testing and the changes in the business model as the startup pivots. 
 

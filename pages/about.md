@@ -12,7 +12,7 @@ It is a **practical and open-source** framework **developed by tech workers for 
 
 Our goal is to help all tech workers **develop, design, and modify products and features to be more safe, inclusive, and sustainable** and help tech founders and decision-makers make informed decisions on whether a new product or feature should be built by **factoring the social and planetary costs of product innovation and development**.
 
-![Core principles of the ResponsibleTech.Work framework](/assets/img/about/RTW-framework-elements.svg)
+![Core principles of the ResponsibleTech.Work framework](/assets/img/about/RTW-framework-elements.webp)
 
 
 ## Core elements of the framework
@@ -32,7 +32,7 @@ The ResponsibleTech.Work framework aims to define responsible product developmen
 
 For the core overarching principle, we chose respect for people, from which we can derive six additional principles that cover all three core areas of impact: 
 
-![Framework core principles](/assets/img/about/RTW-framework-pledges_overview.svg)
+![Framework core principles](/assets/img/about/RTW-framework-pledges_overview.webp)
 
 The framework aims to consider the systemic impact of product development by asking the following core questions:
 
@@ -41,7 +41,7 @@ The framework aims to consider the systemic impact of product development by ask
 - **How does it affect people**: how might it hurt people (even those not using the product), and how is it changing society?
 - **Is it sustainable for the planet**: what is the environmental cost?
 
-![Framework systems map](/assets/img/about/RTW-framework-systems_map.svg)
+![Framework systems map](/assets/img/about/RTW-framework-systems_map.webp)
 
 ### 7 Think + Act pledges
 

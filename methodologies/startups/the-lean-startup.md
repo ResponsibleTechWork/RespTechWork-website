@@ -12,7 +12,7 @@ The Lean Startup is a methodology that helps startups shorten their product deve
 
 The essential element of the methodology is the **Build-Measure-Learn feedback loop** a startup should try to run through as quickly as possible.
 
-{% include img.html img="/methods/Build-Measure-Learn-feedback_loop.svg" alt="A graphic showing the Build-Measure-Learn loop with added suggestions from this article." caption="The Build-Measure-Learn feedback loop from the Lean Startup methodology, updated with ResponsibleTech.Work suggestions" %}
+{% include img.html img="/methods/Build-Measure-Learn-feedback_loop.webp" alt="A graphic showing the Build-Measure-Learn loop with added suggestions from this article." caption="The Build-Measure-Learn feedback loop from the Lean Startup methodology, updated with ResponsibleTech.Work suggestions" %}
 
 The loop usually starts with the [initial ideas](#initial-startup-vision-and-strategy), which include *assumptions* and *hypotheses* about a problem the startup would like to solve. From there, the startup quickly **builds** a *[minimum viable product (MVP)](#minimum-viable-product-mvp)* &ndash; often using *agile software development* &ndash; to test the initial hypothesis through *[experimentation](#validated-learning-and-experimentation)*. As people use the product, the startup **measures** key metrics &ndash; using *[innovation accounting methods](#innovation-accounting-and-actionable-metrics)* &ndash;, so that the team **learns** from the collected data and decides whether to *pivot* (change direction) or *persevere* on the current path, thus starting the feedback loop all over again.
 
@@ -34,7 +34,7 @@ Filling in the [Business Model Canvas](/methodologies/startups/business-model-ge
 
 We discuss the [Business Model Canvas](/methodologies/startups/business-model-generation.html#business-model-canvas) in more detail in the [Business Model Generation section](/methodologies/startups/business-model-generation.html). The Lean Canvas, created by  Ash Maurya and shown below, comes with similar concerns: **the social and planetary costs of the business model are not part of the picture**.
 
-![The Lean Canvas helps early stage startups identify key parts of their business model](/assets/img/methods/Lean_Canvas.svg)
+![The Lean Canvas helps early stage startups identify key parts of their business model](/assets/img/methods/Lean_Canvas.webp)
 
 **It's much easier to change the business model when the startup is still in the early experimentation phases**. For this reason, a responsible startup should use one of the **[improved business model canvases](/tools/business/business-model-canvases/)** that expose environmental & social costs and assumptions when defining its business model.
 {: .advice}
