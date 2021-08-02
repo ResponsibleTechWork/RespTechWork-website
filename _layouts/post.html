@@ -10,7 +10,7 @@ layout: body
       {% endif %}
       <div class="inner-sm">
         <div class="post-date">
-          <time class="published" datetime="{{ page.date | date: '%Y-%m-%d %H:%M' }}">{{ page.date | date: '%B %d, %Y' }}</time>
+          <time class="published" datetime="{{ page.date | date: '%Y-%m-%d %H:%M' }}">{{ page.date | date: '%B %e, %Y' }}</time>
         </div>
         <h1 class="post-title">{{ page.title }}</h1>
         {% assign subtitle_is_not_empty = page.subtitle | is_not_empty %}
