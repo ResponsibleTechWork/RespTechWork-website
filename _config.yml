@@ -47,6 +47,13 @@ collections:
     output: true
     permalink: /tools/:slugified_categories/:title/
 
+# Front Matter Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/ResponsibleTechWork-card.webp
+
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
 # The values here represent the defaults if nothing is set
