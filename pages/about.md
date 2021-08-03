@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About the framework
-image: assets/img/pattern.png
+bg-image: assets/img/pattern.png
 permalink: /about/
 description: ResponsibleTech.Work is an open-source framework, which proposes practical tools for more responsible product development in the tech industry.
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contribute to the project
-image: assets/img/pattern.png
+bg-image: assets/img/pattern.png
 permalink: /contribute/
 description: Learn how to contribute to the ResponsibleTech.Work framework.
 ---
