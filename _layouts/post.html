@@ -25,6 +25,12 @@ layout: body
       <div class="post-content">
         {{ content }}
         <div class="post-meta">
+          {% if page.author %}
+          {% assign author = site.data.authors[page.author] %}
+          {% else %}
+          {% assign author = site.data.authors['admin'] %}
+          {% endif %}
+          <span class="author-info"><img src="{{author.image}}" alt="Profile pic of the blog post author {{ author.name }}"/>{{ author.name }}</span>
           Tags:&nbsp;
           {% for tag in page.tags %}
             <a href="/blog/tag/{{ tag | slugify | downcase }}">{{ tag }}</a>&nbsp;
