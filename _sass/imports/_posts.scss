@@ -98,6 +98,15 @@
         margin: 4em auto 1em;
         background-color: $color-primary;
       }
+      .author-info {
+        padding-right: 2em;
+        img {
+          width: 40px;
+          height: 40px;
+          border-radius: 50%;
+          margin-right: 0.5em;
+        }
+      }
     }
   }
   .post-date {
