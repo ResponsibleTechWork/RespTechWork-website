@@ -26,3 +26,4 @@ We're currently **looking for more people to join the core team** to increase th
 ## Core team
 
 - [Alja Isaković](https://ialja.com/) - founder, framework development
+- [Chris Oram](https://twitter.com/chrisoram) - core member, framework development
