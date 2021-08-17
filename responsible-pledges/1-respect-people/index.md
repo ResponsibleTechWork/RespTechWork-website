@@ -2,13 +2,13 @@
 title: Respect people I build products for and treat them as friends, not users.
 weight: 1
 excerpt: >-
-  A friend listens, respects your choices, helps you grow, and is there when you need help. A friend doesn't waste your time, track your every move, or use dark patterns to force you to give up your personal data. I pledge to treat the people who use our products as our friends instead of numbers to optimize or users that we're trying to get addicted to our product.
+  A friend listens, respects your choices, helps you grow, and is there when you need help. A friend doesn't waste your time, track your every move, lock you in a walled garden, or use dark patterns to force you to give up your personal data. I pledge to treat the people who use our products as our friends instead of numbers to optimize, data to exploit, or users that we're trying to get addicted to our product.
 layout: docs
 ---
 
 ## I will think about:
 
-- How can I provide value to people in a way that protects people's time, privacy, safety, and well-being, without resorting to data trafficking, exploitation, and short-term hacks?
+- How can I provide value to people in a way that protects people's time, privacy, safety, freedom of choice, and well-being, without resorting to data trafficking, exploitation, and short-term hacks?
 - What metrics do we use for people's satisfaction with our product? Are they vanity metrics that look good on slides but don't actually mean anything to people using our product?
 - Am I adding a new feature to provide actual value to people, or is it just something that will boost our vanity metrics?
 
@@ -19,6 +19,7 @@ layout: docs
 - Instead of prioritizing time-sucking metrics and driving engagement numbers with mind hacks, aim to delight people and provide value in the shortest possible time so that they can go back to living their lives.
 - Instead of prioritizing growth hacks, focus on building a great product that people can't wait to recommend to their friends on their own.
 - Remove unnecessary data collection and data tracking, prioritize speaking to actual people.
+- Use open standards and aim for interoperability whenever possible. Make it easy for people to manage and export their data.
 - Be there to help when something goes wrong and respect people's choice to change their minds and choose a different product.
 - Remove all notifications that primarily serve our business purposes instead of what people actually value.
 - Seek business models and practices that don't compromise people's privacy.
