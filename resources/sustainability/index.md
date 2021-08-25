@@ -8,14 +8,14 @@ layout: docs
 ## Tools and frameworks
 
 - [B Impact Assessment](https://bimpactassessment.net) is a tool a company can use to measure its impact on its workers, community, environment, and customers.
-- [Climate Justice 101 Guide](https://www.notion.so/Climate-Justice-101-Guide-03bef96c18364c6cbca481ead365ae9e)
+- [ClimateAction.Tech guide: Reduce the carbon emissions of your website](https://climateaction.tech/actions/reduce-the-carbon-emissions-of-your-website/)
+- [Climate Justice 101 Guide](https://www.notion.so/Climate-Justice-101-Guide-03bef96c18364c6cbca481ead365ae9e) by [Work on Climate's](https://workonclimate.org/) climate justice learning group
 - [Cloud Carbon Emissions Measurement and Analysis Tool](https://www.cloudcarbonfootprint.org/)
 - [Planet Centric Design](https://planetcentricdesign.com/)
 - [Principles of Green Software Engineering](https://principles.green/)
-- [Reduce the carbon emissions of your website](https://climateaction.tech/actions/reduce-the-carbon-emissions-of-your-website/)
 - [Sustainable Design Tools](https://www.sdfy.org/sustainable-design-tools)
 - [Sustainable Web Design](https://sustainablewebdesign.org/)
-- [Threebility Tools for Sustainable Innovation](https://www.threebility.com/tools)
+- [Tools for Sustainable Innovation by Threebility](https://www.threebility.com/tools)
 - [Website Carbon Calculator](https://www.websitecarbon.com/)
 
 ## Websites 
@@ -34,3 +34,7 @@ layout: docs
 - [ClimateAction.tech](https://climateaction.tech/) is a worldwide community connecting tech workers that want to learn more about climate action, discover climate jobs and more.
 - [The Green Web Foundation](https://www.thegreenwebfoundation.org/) offers a directory of green hosting providers and other useful green hosting tools.
 - [Work on Climate](https://workonclimate.org) is an action-oriented Slack community for people serious about climate work.
+
+## Events
+
+- [SustainableUX](https://sustainableux.com/) is an online free conference for UX, front-end, and product people interested in sustainability

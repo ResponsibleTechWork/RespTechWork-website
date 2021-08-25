@@ -8,6 +8,7 @@ layout: docs
 ## Tools and frameworks
 
 - [Aequitas open source bias audit toolkit](http://www.datasciencepublicpolicy.org/projects/aequitas/)
+- [AI Blindspot Cards](https://aiblindspot.media.mit.edu/)
 - [AI Farness 360 toolkit by IBM](http://aif360.mybluemix.net/)
 
 ## Books
