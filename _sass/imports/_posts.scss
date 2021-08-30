@@ -151,6 +151,37 @@
   }
 }
 
+.post-navigation {
+  margin-top: 2.5em;
+  display: block;
+  width: auto;
+  overflow: hidden;
+  
+  a {
+    text-decoration: none;
+    border-bottom: none;
+    display: block;
+    width: 50%;
+    float: left;
+    margin: 1em 0;
+  }
+  
+  .prev {
+    &::before {
+      content: "<";
+      margin-right: 6px;
+    }
+  }
+
+  .next {
+    text-align: right;
+    &::after {
+      content: ">";
+      margin-left: 6px;
+    }
+  }
+}
+
 @media only screen and (min-width: 641px) {
   .has-gradient {
     .page-title,
