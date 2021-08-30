@@ -96,7 +96,7 @@ Please follow these steps to make changes to the website. There is a detailed ex
   You are now ready to create a pull request from the command line. There are currently 3 possible reviewers: ialja, rewildchris, and danhartley.
 
   ```sh
-  gh pr create --title "The content_new-blog-post is ready to review" --reviewer ialja
+  gh pr create --title "New content_new-blog-post" --body "Content ready to review" --reviewer ialja
   ```
 
   For additional commands and flags see: https://cli.github.com/manual/gh_issue_create
