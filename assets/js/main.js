@@ -1,12 +1,6 @@
 /**
  * Main JS file for theme behaviours
  */
-// Responsive video embeds
-let videoEmbeds = [
-  'iframe[src*="youtube.com"]',
-  'iframe[src*="vimeo.com"]'
-];
-reframe(videoEmbeds.join(','));
 
 // Handle main navigation menu toggling on small screens
 function menuToggleHandler(e) {
