@@ -38,5 +38,15 @@ layout: body
         </div>
       </div><!-- .post-content -->
     </div><!-- .inner-md -->
-    <p class="rss-subscribe">Subscribe to new blog posts <a href="{{ "/index.xml" | relative_url }}">via RSS</a></p>
+    <div class="inner outer">
+      <div class="post-navigation">
+        {% if page.next.url %}
+          <a class="prev" href="{{page.next.url}}">{{page.next.title | truncate: 60}}</a>
+        {% endif %}
+        {% if page.previous.url %}
+          <a class="next" href="{{page.previous.url}}">{{page.previous.title | truncate: 60}}</a>
+        {% endif %}
+      </div>
+      <p class="rss-subscribe">Subscribe to new blog posts <a href="{{ "/index.xml" | relative_url }}">via RSS</a></p>
+    </div>
   </article><!-- .post -->

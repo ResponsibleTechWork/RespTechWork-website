@@ -24,7 +24,7 @@
         </div>
         {% endfor %}
       </div>
-      {% include pagination.html paginator=paginator %}
+      {% include pagination.html paginator=paginator type="tools" %}
       <p class="rss-subscribe">Subscribe to new tools <a href="{{ "/tools/feed.xml" | relative_url }}">via RSS</a></p>
     </div> <!-- .block-content -->
   </div> <!-- .inner -->
