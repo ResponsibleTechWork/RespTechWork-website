@@ -145,20 +145,22 @@
 }
 
 .post-navigation {
+  font-size: 0.875em;
   margin-top: 2.5em;
   display: block;
   width: auto;
   overflow: hidden;
-  
+
   a {
     text-decoration: none;
     border-bottom: none;
     display: block;
-    width: 50%;
-    float: left;
+    width: 100%;
+    float: none;
+    text-align: center;
     margin: 1em 0;
   }
-  
+
   .prev {
     &::before {
       content: "<";
@@ -167,10 +169,25 @@
   }
 
   .next {
-    text-align: right;
     &::after {
       content: ">";
       margin-left: 6px;
+    }
+  }
+}
+
+@media only screen and (min-width: 800px) {
+  .post-navigation {
+    a {
+      width: 50%;
+      float: left;
+      text-align: left;
+    }
+    .next {
+      text-align: right;
+      &:only-child {
+        float: right;
+      }
     }
   }
 }
