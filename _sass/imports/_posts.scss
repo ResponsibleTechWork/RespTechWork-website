@@ -25,7 +25,6 @@
   .page-title,
   .post-title {
     color: inherit;
-    font-size: 2.25em;
     margin: 0;
   }
 }
@@ -62,11 +61,6 @@
   }
 }
 
-.post-excerpt {
-  font-style: italic;
-  font-size: 1.1em;
-}
-
 .post-meta {
   color: $gray-500;
 }
@@ -87,16 +81,15 @@
 
 .post-full {
   .post-content {
-    padding: 2.5em 1.5em;
+    padding: 2.5em;
     .post-meta {
-      margin: 0 0 1em;
       &::before {
         content: '';
         display: block;
         width: 4em;
         height: 4px;
-        margin: 4em auto 1em;
-        background-color: $color-primary;
+        margin: 4em auto 3em;
+        background-color: $brand-blue;
       }
       .author-info {
         padding-right: 2em;
@@ -118,15 +111,15 @@
 .post-feed {
   .post {
     padding: 0 0 2.5em;
+    margin-bottom: 2em;
   }
 
   .post-header {
-    margin: 0 0 1.25em;
+    margin: 0 0 1em;
     padding-top: 1.875em;
   }
 
   .post-title {
-    font-size: 1.5em;
     margin: 0;
   }
 
@@ -152,20 +145,22 @@
 }
 
 .post-navigation {
+  font-size: 0.875em;
   margin-top: 2.5em;
   display: block;
   width: auto;
   overflow: hidden;
-  
+
   a {
     text-decoration: none;
     border-bottom: none;
     display: block;
-    width: 50%;
-    float: left;
+    width: 100%;
+    float: none;
+    text-align: center;
     margin: 1em 0;
   }
-  
+
   .prev {
     &::before {
       content: "<";
@@ -174,10 +169,25 @@
   }
 
   .next {
-    text-align: right;
     &::after {
       content: ">";
       margin-left: 6px;
+    }
+  }
+}
+
+@media only screen and (min-width: 800px) {
+  .post-navigation {
+    a {
+      width: 50%;
+      float: left;
+      text-align: left;
+    }
+    .next {
+      text-align: right;
+      &:only-child {
+        float: right;
+      }
     }
   }
 }
@@ -186,12 +196,17 @@
   .has-gradient {
     .page-title,
     .post-title {
-      font-size: 3em;
+      font-size: 2.667;
     }
   }
   .page-subtitle,
   .post-subtitle {
     font-size: 1.25em;
+  }
+  .post-full {
+    .post-content {
+      padding: 3.5em 4.5em;
+    }
   }
 }
 

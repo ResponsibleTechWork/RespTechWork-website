@@ -23,7 +23,7 @@
 }
 
 .block-subtitle {
-  color: $gray-500;
+  color: $gray-600;
   font-size: 1.25em;
   line-height: 1.5;
   margin-bottom: 0;
@@ -35,12 +35,6 @@
 
 .block-buttons,
 .grid-item-buttons {
-  -ms-flex-align: center;
-  align-items: center;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
   margin-bottom: 0.9375em;
 
   a {
@@ -345,11 +339,11 @@
 @media only screen and (min-width: 641px) {
   .block-hero,.block-plain {
     .block-title {
-      font-size: 3em;
+      font-size: 2.611em;
     }
 
     .block-content {
-      font-size: 1.25em;
+      font-size: 1.278em;
     }
 
     .block-buttons {

@@ -65,9 +65,9 @@
 
 // Background gradients
 .has-gradient {
-  background: $color-primary;
-  background: -webkit-gradient(linear, left top, right top, $color-primary, $color-secondary, $color-tertiary);
-  background: linear-gradient(to right, $color-primary, $color-secondary, $color-tertiary);
+  background: $brand-blue;
+  background: -webkit-gradient(linear, left top, right top, $brand-blue, $color-secondary, $color-tertiary);
+  background: linear-gradient(to right, $brand-blue, $color-secondary, $color-tertiary);
   color: #fff;
   position: relative;
 
