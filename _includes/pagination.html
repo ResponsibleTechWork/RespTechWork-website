@@ -1,19 +1,13 @@
   
 {% assign paginator = include.paginator %}
 
-<div class="pagination">
-  {% if paginator.total_pages > 1 %}
-    <ul>
-      {% if paginator.previous_page %}
-      <li>
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
-      </li>
-      {% endif %}
-      {% if paginator.next_page %}
-      <li>
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
-      </li>
-      {% endif %}
-    </ul>
+{% if paginator.total_pages > 1 %}
+<div class="post-navigation">
+  {% if paginator.previous_page %}
+  <a class="prev" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer {{ include.type | default: "posts" }}</a>
   {% endif %}
-</div><!-- .pagination -->
+  {% if paginator.next_page %}
+  <a class="next" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older {{ include.type | default: "posts" }}</a>
+  {% endif %}
+</div><!-- .post-navigation -->
+{% endif %}
