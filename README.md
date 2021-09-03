@@ -8,6 +8,39 @@ The website was created in [Jekyll](https://jekyllrb.com/), a static website gen
 
 The design is based on the [Libris theme](https://github.com/stackbit-themes/libris-jekyll) by [Stackbit](https://www.stackbit.com/). The theme's SASS files are stored in the `_sass/imports` folder.
 
+## Getting started on macOS
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+  Jeykyll requires Ruby 2.5 or above. Ruby 3 and above does not include webrick; this dependency will be included when you run bundle install (see below).
+  ```sh
+  brew install ruby
+  ```  
+  Install jekyll
+  ```sh
+  gem install jekyll bundler
+  ```
+
+### Running the website locally
+
+  Clone the repo
+  ```sh
+  git clone https://github.com/ResponsibleTechWork/RespTechWork-website.git
+  ```
+  Make sure all dependencies in your Gemfile are available to your application
+  ```sh  
+  bundle install
+  ```
+  Build the site and serve locally with or without live reload
+  ```sh
+  bundle exec jekyll serve
+  bundle exec jekyll serve --livereload
+  ```
+
+If you run into any problems, Jekyll documentation has all the information you need to set up your machine, and build and run a Jekyll site: https://jekyllrb.com/docs/.
+  
 # Content file structure
 
 ## The framework
