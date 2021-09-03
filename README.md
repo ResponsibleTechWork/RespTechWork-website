@@ -8,7 +8,7 @@ The website was created in [Jekyll](https://jekyllrb.com/), a static website gen
 
 The design is based on the [Libris theme](https://github.com/stackbit-themes/libris-jekyll) by [Stackbit](https://www.stackbit.com/). The theme's SASS files are stored in the `_sass/imports` folder.
 
-## Getting started on iOS
+## Getting started on macOS
 
 To get a local copy up and running follow these simple steps.
 
