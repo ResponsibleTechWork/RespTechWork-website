@@ -2,7 +2,9 @@
 
 We welcome contributions to this project. Please follow our code of conduct (CODE_OF_CONDUCT).
 
-To contribute you will need to fork the project. Thereafter follow the set up instructions in the README file. 
+To make code changes you will need to fork the project. Thereafter follow the set up instructions in the README file.
+
+If you don't want to make changes yourself, but would like to make a suggestion or comment, you can open an issue.
 
 ## Opening an issue
 
