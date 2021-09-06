@@ -8,11 +8,11 @@ To contribute you will need to fork the project. Thereafter follow the set up in
 
 We recommend opening an issue for the following situations:
 
-* Report an error you can’t solve yourself
-* Discuss a high-level topic or idea (for example, community, vision or policies)
-* Propose a new feature or other project idea
+* Reporting an error you can’t solve yourself
+* Discussing a high-level topic or idea (for example, community, vision or policies)
+* Proposing a new feature or other project idea
 
-This list is proposed by [Open Source Guides](https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution).
+This list is taken from [Open Source Guides](https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution).
 
 If you decide to tackle an issue yourself, these are the steps you'll need to take to make a pull request.
 
