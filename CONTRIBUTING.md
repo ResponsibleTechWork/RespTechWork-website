@@ -1,10 +1,20 @@
 # Contributing
 
-We welcome contributions to this project. Please follow our code of conduct (CODE_OF_CONDUCT.md).
+We welcome contributions to this project. Please follow our code of conduct (CODE_OF_CONDUCT).
 
-To contribute you will need to fork the project. Thereafter follow the set up instructions in the README.md file. 
+To contribute you will need to fork the project. Thereafter follow the set up instructions in the README file. 
 
-These are the steps in outline required to make a pull request.
+## Opening an issue
+
+We recommend opening an issue for the following situations:
+
+* Report an error you can’t solve yourself
+* Discuss a high-level topic or idea (for example, community, vision or policies)
+* Propose a new feature or other project idea
+
+This list is proposed by [Open Source Guides](https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution).
+
+If you decide to tackle an issue yourself, these are the steps you'll need to take to make a pull request.
 
 1. Fork the repo
 2. Clone your fork
@@ -25,16 +35,6 @@ You can read more about contributing to the project at https://responsibletech.w
 Before contributing to the project, create a fork and clone it locally. If you're not sure how to do this, Kent C. Dodds has a helpful [video guide to forking and cloning a git repository](https://egghead.io/lessons/javascript-how-to-fork-and-clone-a-github-repository).
 
 GitHub has this [text-only guide to forking a repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
-
-## Opening an issue
-
-We recommend opening an issue for the following situations:
-
-* Report an error you can’t solve yourself
-* Discuss a high-level topic or idea (for example, community, vision or policies)
-* Propose a new feature or other project idea
-
-This list is proposed by [Open Source Guides](https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution).
 
 ## Creating a pull request
 
