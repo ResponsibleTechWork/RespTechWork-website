@@ -8,13 +8,22 @@ If you don't want to make changes yourself, but would like to make a suggestion 
 
 ## Opening an issue
 
-We recommend opening an issue for the following situations:
+We recommend opening an issue in the following situations:
 
 * Reporting an error you can’t solve yourself
 * Discussing a high-level topic or idea (for example, community, vision or policies)
 * Proposing a new feature or other project idea
 
-This list is taken from [Open Source Guides](https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution).
+This list is adapted from [Open Source Guides](https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution).
+
+## Opening a pull request
+
+Opening a pull request is appropriate when:
+
+ * You are submitting trivial fixes (for example, a typo, a broken link or an obvious error)
+ * You are planning to start work on a contribution that was already asked for, or that you’ve already discussed, in an issue
+
+ These cases are adapted from [Open Source Guides](https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution).
 
 If you decide to tackle an issue yourself, these are the steps you'll need to take to make a pull request.
 
@@ -32,13 +41,13 @@ If you decide to tackle an issue yourself, these are the steps you'll need to ta
 
 You can read more about contributing to the project at https://responsibletech.work/contribute/.
 
-## Forking the repository
+### Forking the repository
 
 Before contributing to the project, create a fork and clone it locally. If you're not sure how to do this, Kent C. Dodds has a helpful [video guide to forking and cloning a git repository](https://egghead.io/lessons/javascript-how-to-fork-and-clone-a-github-repository).
 
 GitHub has this [text-only guide to forking a repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
 
-## Creating a pull request
+### Creating a pull request
 
 Once you have the project running locally, create a new branch for the issue you want to work on. Remember to regularly pull changes from "upstream" to reduce the likelihood of merge conflicts.
 
