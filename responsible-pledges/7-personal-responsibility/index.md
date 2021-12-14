@@ -9,7 +9,8 @@ layout: docs
 ## I will think about:
 
 - Which product features and decisions make me uncomfortable? (Not just on my team but in our company as a whole.)
-- How do I feel when I talk about my job and the company I work for with friends and family? - How are my work and company perceived from the outside?
+- How do I feel when I talk about my job and the company I work for with friends and family? 
+- How are my work and company perceived from the outside?
 - How responsible are the companies that make the products I use in my professional and personal life? Are there better alternatives?
 
 ## Suggested actions:
