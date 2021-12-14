@@ -29,7 +29,7 @@ layout: docs
 - [Designing for Sustainability](https://www.oreilly.com/library/view/designing-for-sustainability/9781491935767/)
 - [World Wide Waste](https://gerrymcgovern.com/books/world-wide-waste/)
 
-## Organizations
+## Organizations to follow
 
 - [ClimateAction.tech](https://climateaction.tech/) is a worldwide community connecting tech workers that want to learn more about climate action, discover climate jobs and more.
 - [The Green Web Foundation](https://www.thegreenwebfoundation.org/) offers a directory of green hosting providers and other useful green hosting tools.
