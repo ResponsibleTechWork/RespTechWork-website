@@ -36,6 +36,7 @@
 
 // Notifications, alerts
 .advice,
+.example,
 .note,
 .important {
   border-radius: $border-radius;
@@ -51,6 +52,11 @@
 .advice {
   background: $primary-pale;
   border-left: 5px solid $color-secondary;
+}
+
+.example {
+  background: $primary-pale;
+  border-left: 5px solid $brand-blue;
 }
 
 .note {

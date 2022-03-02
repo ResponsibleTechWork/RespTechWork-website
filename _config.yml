@@ -27,6 +27,7 @@ url: "https://responsibletech.work" # the base hostname & protocol for your site
 twitter_username: RespTechWork
 github_username:  ResponsibleTechWork
 news_signup: https://responsibletechwork.eo.page/
+feedback_url: https://github.com/ResponsibleTechWork/RespTechWork-website/discussions/
 logo: "/assets/img/logo.svg"
 
 # Build settings
