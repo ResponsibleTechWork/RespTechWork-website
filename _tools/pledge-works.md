@@ -16,7 +16,7 @@ Note: This tool is still under development; we are seeking broader validation in
 Pledge Works is a tool we developed to bridge the gap between good intentions and everyday product decisions. Its core idea is to **write pledges for better outcomes** at every step of your existing processes, in cascading levels of granularity.
 
 
-{% include img.html img="/tools/Pledge_Works-formula.webp" alt="Pledge Works formula: values + context = pledges. Values are drawn as a blue circle, context as a black square, and they combine into a purple square within circle to illustrate the Pledge Works approach." %}
+{% include img.html img="/tools/Pledge_Works-formula.webp" alt="Pledge Works formula: values + context = pledges. Values are drawn as a blue circle, context as a black square, and they combine into a purple square within a circle to illustrate the Pledge Works approach." %}
 
 
 The goals of Pledge Works are to:
@@ -81,7 +81,7 @@ Examples of **simple pledges**:
 
 We recommend adding the adjective "responsible" in front of the pledge actor to help you frame your thinking but you can add your own (e.g., "privacy-focused").
 
-We find that writing reasons can be quite challenging but useful for examining your motivations, especially if you dig in a bit deeper with tools like the[ 5 Whys](https://en.wikipedia.org/wiki/Five_whys).
+We find that writing reasons can be quite challenging but useful for examining your motives, especially if you dig in a bit deeper with tools like the[ 5 Whys](https://en.wikipedia.org/wiki/Five_whys).
 
 {::options parse_block_html="true" /}
 <div class="example">
@@ -105,7 +105,7 @@ Examples of **to WHOM pledges**:
 * _"... to people using the products I design: I will design delightful experiences that don't waste your time and respect your other needs because I believe that digital products should improve rather than aim to take over our rights."_
 * _"... to people not using the products I design: I will be mindful of how my design choices might affect you negatively because I don't want to inadvertently hurt people."_
 * _"... to the planet: I will minimize digital waste and use tools that aim to reduce our environmental impact because I want to do my part in keeping the climate livable for future generations."_
-* _"... to clients: I will design solutions within your budget and time constraints as long as they don't go harm the well-being of people or the planet because I respect you as people and your goals of running a profitable and reputable business."_
+* _"... to clients: I will design solutions within your budget and time constraints as long as they don't harm the well-being of people or the planet because I respect you as people and your goals of running a profitable and reputable business."_
 </div>
 {::options parse_block_html="false" /}
 
@@ -182,7 +182,7 @@ The Pledge Works implementation cycle has three main elements:
 
 1. **Write pledges in context**: writing initial pledges should be a cross-functional team activity during which the team combines diverse perspectives with other project requirements (see the [Responsible project kickoff](#responsible-project-kickoff) section above for details) and defines the scope of work. Writing pledges helps the team reach a consensus of what responsibility looks like within the context of a specific project, epic, or sprint.
 
-For example, we agreed that protecting user privacy is important to our company, what do we pledge to _do_ to ensure privacy protection on the new website we're developing?
+For example, if we agreed that protecting user privacy is important to our company, what do we pledge to _do_ to ensure privacy protection on the new website we're developing?
 {: .example}
 
 2. **Seek better outcomes**: once you have clarity on shared values and make pledges visible in your existing tools (e.g., product roadmap, sprint backlog), you can start using context- and role-based pledges to consistently challenge default outcomes. Your pledges become ethical requirements in decision-making and can be used to challenge user stories or tasks that break pledges or to celebrate user stories or tasks that uphold pledges. Taking individual responsibility for speaking up, regardless of job title, is key in this part and helps your team members train their responsibility muscles.
@@ -207,7 +207,7 @@ At the beginning of a process (new project, initiative, epic, sprint), the team 
 * What are our business, user, and technical requirements?
 * What are our constraints?
 * What is our purpose? What values, principles, and pledges have we previously agreed upon?
-* How does acting responsibly look like in our context?
+* What does acting responsibly look like in our context?
 * How will we know if we’re upholding each pledge?
 * What trade-offs are we making? How will we mitigate them?
 
@@ -251,7 +251,7 @@ Ideally, your company, product team, or clients would be on board with Pledge Wo
 
 As a tech professional, you can write your own set of role-based pledges. If you're a member of an organization such as ACM, you can base them on their[ Code of Ethics](https://www.acm.org/code-of-ethics). If not, you can write your own based on what's important to you. (Hopefully more professional organizations and communities will eventually come together to create their professional codes.) 
 
-Once you have your pledges, you can publish them on your website, LinkedIn profile, etc., and refer to them when you see something problematic at work or when working with a client as a freelancer. It might not be as powerful as referring to pledges your company, team, or client decided to uphold beforehand, but it's a start of a conversation. Referring to community best practices can also lend more weight to your argument if you can demonstrate something is frowned upon – or even forbidden – by your professional code. 
+Once you have your pledges, you can publish them on your website, LinkedIn profile, etc., and refer to them when you see something problematic at work or when working with a client as a freelancer. It might not be as powerful as referring to pledges your company, team, or client decided to uphold beforehand, but it's the start of a conversation. Referring to community best practices can also lend more weight to your argument if you can demonstrate something is frowned upon – or even forbidden – by your professional code. 
 
 
 #### **3) Review outcomes together**
