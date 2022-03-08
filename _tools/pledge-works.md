@@ -276,3 +276,7 @@ You can add the review of your outcomes to your regular review and retrospective
 ## Additional Resources
 
 * [Pledge Toolbox](/tools/business/pledge-toolbox/): a set of tools to help you write and examine your pledges from a wider ethical perspective.
+
+### **Case Studies**
+
+* **The Public Good**: a web developer explains how Pledge Works helps them incorporate [ethical thinking](https://www.the-public-good.com/ethics) in their work, and uses the example of a company selling carbon offsets to show how [writing pledges](https://www.the-public-good.com/ethics/pledge-works/case-study-startup) shapes decision making.
