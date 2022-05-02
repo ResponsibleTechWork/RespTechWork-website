@@ -18,6 +18,7 @@ layout: docs
 - [Responsible tech playbook by Thoughtworks](https://www.thoughtworks.com/about-us/social-change/responsible-tech-playbook)
 - [Spotify's Ethics Assessment Worksheet](https://spoti.fi/Ethicsassessment)
 - [Values in Computing](http://www.valuesincomputing.org)
+- [Tethix Directory of Ethics Tools and Techniques](https://tethix.co/ethics-tools-directory/)
 - [The Ethics and Inclusion Framework](https://patriciagestoso.com/ethics-and-inclusion-framework/)
 
 ## Books
@@ -28,4 +29,5 @@ layout: docs
 
 ## Organizations to follow
 
-- [All Tech Is Human](https://alltechishuman.org/) is building the Responsible Tech pipeline, making it more diverse, multidisciplinary, and aligned with the public interest.
+- [All Tech Is Human](https://alltechishuman.org/) is a non-profit focused on building the responsible tech pipeline.
+- [Ethical Design Network](https://ethicaldesignnetwork.com/) is a community for people interested in ethical design.
