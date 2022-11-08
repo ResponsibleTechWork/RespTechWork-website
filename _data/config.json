@@ -54,13 +54,6 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/RespTechWork",
-                "style": "icon",
-                "icon_class": "twitter",
-                "new_window": true
-            },
-            {
                 "label": "GitHub",
                 "url": "https://github.com/ResponsibleTechWork",
                 "style": "icon",

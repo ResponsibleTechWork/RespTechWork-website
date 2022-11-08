@@ -24,7 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Practical tools for more responsible product development in the tech industry.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://responsibletech.work" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: RespTechWork
 github_username:  ResponsibleTechWork
 news_signup: https://responsibletechwork.eo.page/
 feedback_url: https://github.com/ResponsibleTechWork/RespTechWork-website/discussions/
@@ -148,7 +147,6 @@ feed:
 social:
   name: ResponsibleTech.Work
   links:
-    - https://twitter.com/RespTechWork
     - https://github.com/ResponsibleTechWork
 
 # Exclude from processing.
