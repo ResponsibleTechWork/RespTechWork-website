@@ -9,6 +9,7 @@ layout: docs
 
 - [A11Y Project Accessibility Checklist](https://www.a11yproject.com/checklist/) and [Resources](https://www.a11yproject.com/resources/)
 - [CivicActions Accessibility List of Tools](https://accessibility.civicactions.com/guide/tools) and [Playbook for more accessible digital services](https://accessibility.civicactions.com/playbook/)
+- [EXPERTE.com's Accessibility Checker](https://www.experte.com/accessibility)
 - [Inclusive Design Toolkit by University of Cambridge](http://www.inclusivedesigntoolkit.com/) (also presented in [book format](http://www-edc.eng.cam.ac.uk/downloads/idtoolkit.pdf))
 - [Microsoft Inclusive Design Toolkit](https://www.microsoft.com/design/inclusive/)
 - [Mobile A11y blog](https://mobilea11y.com/) and [resources](https://mobilea11y.com/resources/)
