@@ -18,5 +18,5 @@ layout: docs
 
 ## Organizations to follow
 
-- [Algorithmic Justic League](https://www.ajl.org) is  an organization that combines art and research to illuminate the social implications and harms of artificial intelligence
+- [Algorithmic Justice League](https://www.ajl.org) is  an organization that combines art and research to illuminate the social implications and harms of artificial intelligence
 - [Data & Society](https://datasociety.net) is an independent nonprofit research organization that studies the social implications of data-centric technologies & automation
