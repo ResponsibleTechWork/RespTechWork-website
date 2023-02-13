@@ -1,0 +1,44 @@
+---
+layout: body_library
+---
+
+<div class="inner outer">
+  <div class="docs-content">
+
+    {% include docs_menu.html page=page site=site group="library" %}
+    <article class="post type-docs">
+      <div class="post-inside">
+
+        <header class="post-header">
+          <h1 class="post-title">{{ page.title }}</h1>
+        </header><!-- .post-header -->
+        <div class="post-content">
+          {{ content }}
+        
+          {% assign current_page_url = page.url | trim: '/' %}
+          {% if root_docs_path != current_page_url %}
+            {% assign child_pages = current_page_url | get_pages | sort: 'weight' %}
+            {% assign child_count = child_pages | size %}
+            {% if child_count > 0 %}
+                {% assign has_children = true %}{% else %}
+                {% assign has_children = false %}{% endif %}
+            {% assign has_children_is_not_empty = has_children | is_not_empty %}
+            {% if has_children_is_not_empty %}
+              <ul id="docs-section-items" class="docs-section-items">
+                {% for child_page in child_pages %}
+                <li class="docs-section-item"><a href="{{ child_page.url | relative_url }}" class="docs-item-link">{{ child_page.title }}<span class="icon-angle-right" aria-hidden="true"></span></a></li>
+                {% endfor %}
+              </ul><!-- .docs-section-pages -->
+            {% endif %}
+          {% endif %}
+        </div><!-- .post-content -->
+      </div><!-- .post-inside -->
+    </article><!-- .post -->
+    <nav id="page-nav" class="page-nav">
+      <div id="page-nav-inside" class="page-nav-inside sticky">
+        <h2 class="page-nav-title">Jump to Section</h2>
+        <div id="page-nav-link-container"></div>
+      </div><!-- .page-nav-inside -->
+    </nav><!-- .page-nav -->
+  </div><!-- .docs-content -->
+</div><!-- .inner-->

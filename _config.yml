@@ -27,6 +27,7 @@ url: "https://responsibletech.work" # the base hostname & protocol for your site
 github_username:  ResponsibleTechWork
 news_signup: https://responsibletechwork.eo.page/
 feedback_url: https://github.com/ResponsibleTechWork/RespTechWork-website/discussions/
+library_url: https://play.workadventu.re/@/responsibletech.work/rtw/library
 logo: "/assets/img/logo.svg"
 
 # Build settings

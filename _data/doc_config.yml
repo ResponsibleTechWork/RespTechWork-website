@@ -22,3 +22,11 @@ methodologies:
     - startups
     - innovation
     - product-development
+library:
+  root_docs_path: /library
+  sections:
+    - about
+    - magazines
+    - events
+#    - catalogue
+#    - lookout
