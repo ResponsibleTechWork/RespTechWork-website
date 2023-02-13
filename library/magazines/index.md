@@ -1,11 +1,11 @@
 ---
-title: 🟡 Newsstand
+title: 🟡 Magazine Rack
 excerpt: >-
-  A list of recommended responsible tech news sources.
+  A list of recommended responsible tech publications.
 layout: library_docs
 ---
 
-We invite you to check out the following news sources that are focused on different aspects of responsible tech work:
+We invite you to check out the following online publications that are focused on different aspects of responsible tech work:
 
 - [The Markup](https://themarkup.org/): Data-driven investigations of tech and how it influences society.
 - [Data & Society: Points](https://points.datasociety.net/): Points is the blog of Data & Society Research Institute.

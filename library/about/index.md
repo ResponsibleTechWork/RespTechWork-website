@@ -16,7 +16,7 @@ We're building the **Responsible Tech Library** to inspire conversations around 
 
 ## Library sections
 The Library consists of three main sections:
-- 🟡 **Lookout**: visit this room when you want to check responsible tech news sources or explore one of the in-depth articles to reflect on the past, present, and future of technology. The Lookout articles are hand-picked by the librarians and aim to provide a broader perspective on tech. 
+- 🟡 **Lookout**: visit this room when you want to check responsible tech publications or explore one of the in-depth articles to reflect on the past, present, and future of technology. The Lookout articles are hand-picked by the librarians and aim to provide a broader perspective on tech. 
 - 🔵 **Exhibitions**: in this room, we'll explore specific responsible tech topics through multimedia exhibitions that inform and challenge our views on technology. Stay tuned for the announcement of our first exhibition!
 - 🟢 **Library & Garden**: when you want to learn about a topic related to responsible tech, we invite you to browse the foundational resources in the main Library section, organized by category, type, and need. And be sure to visit the garden in the middle to sit down and discuss responsible tech with friends or other visitors. 
 
@@ -37,4 +37,6 @@ If you're coming to the Library with a specific need in mind, you can also use t
 - Different parts of the Library include **background music**. If you want to mute the music or change the volume, use the audio slider at the top of the window.
 
 ## About the project
-The Responsible Tech Library was built and is being maintained by [ResponsibleTech.Work](https://responsibletech.work/) as an open source tool. The Library map used by [WorkAdventure](https://workadventu.re/) is hosted on [GitHub](https://github.com/ResponsibleTechWork/RespTechLibrary). Feel free to open a new issue if you notice any problems with the map or would like to submit content suggestions to the librarians.
+The Responsible Tech Library was built and is being maintained by [ResponsibleTech.Work](https://responsibletech.work/) as an open source tool. The Library map we use in [WorkAdventure](https://workadventu.re/) is hosted on [GitHub](https://github.com/ResponsibleTechWork/RespTechLibrary). Feel free to open a new issue if you notice any problems with the map or would like to submit content suggestions to the librarians.
+
+For any other general questions or suggestions regarding the Library, you can also email us at **{{ site.email }}**

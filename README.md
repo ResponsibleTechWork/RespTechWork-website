@@ -53,7 +53,7 @@ If you run into any problems, Jekyll documentation has all the information you n
 
 - **Resources**: lists of links to additional resources, organized by topic. Source files are stored in the `/resources` folder, implemented with the theme's docs layout. Open to suggestions for text improvements as well as new links. 
 - **Blog**: posting news related to the framework and the website. Source files are stored in the `/_posts` folder, implemented as a Jekyll collection. Maintained and updated by the core team.
-- **Library**: pages related to the Responsible Tech Library. Source files are stored in the `/library` folder, implemented with a modified theme's docs layout -- look for `_library` files in the `_layouts`. On these pages, the main menu was removed and the footer simplified because these pages were designed to be displayed within the Responsible Tech Library to provide guidance to visitors in the Library.
+- **Library**: pages related to the Responsible Tech Library. Source files are stored in the `/library` folder, implemented with a modified theme's docs layout -- look for `_library` files in the `_layouts`. On these pages, the main menu has been removed as these pages were primarily designed to be displayed within the Responsible Tech Library.
 
 ## Additional pages
 
