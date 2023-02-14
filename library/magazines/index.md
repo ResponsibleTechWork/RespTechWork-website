@@ -1,7 +1,8 @@
 ---
-title: 🟡 Magazine Rack
+title: Magazine Rack
 excerpt: >-
   A list of recommended responsible tech publications.
+library_part: lookout
 layout: library_docs
 ---
 

@@ -1,7 +1,8 @@
 ---
-title: 🟡 Lookout selection 
+title: Lookout selection 
 excerpt: >-
   An archive of links included in the Responsible Tech Library lookout section.
+library_part: lookout
 layout: library_docs
 ---
 

@@ -1,7 +1,8 @@
 ---
-title: 📚 About the Library
+title: About the Library
 excerpt: >-
   Everything you need to know about the Responsible Tech Library.
+library_part: all
 layout: library_docs
 ---
 
@@ -16,11 +17,16 @@ We're building the **Responsible Tech Library** to inspire conversations around 
 
 ## Library sections
 The Library consists of three main sections:
-- 🟡 **Lookout**: visit this room when you want to check responsible tech publications or explore one of the in-depth articles to reflect on the past, present, and future of technology. The Lookout articles are hand-picked by the librarians and aim to provide a broader perspective on tech. 
-- 🔵 **Exhibitions**: in this room, we'll explore specific responsible tech topics through multimedia exhibitions that inform and challenge our views on technology. Stay tuned for the announcement of our first exhibition!
-- 🟢 **Library & Garden**: when you want to learn about a topic related to responsible tech, we invite you to browse the foundational resources in the main Library section, organized by category, type, and need. And be sure to visit the garden in the middle to sit down and discuss responsible tech with friends or other visitors. 
 
-### Browsing the 🟢 Library
+{% include docs_logo.html library_part='lookout' %}**Lookout**: visit this room when you want to check responsible tech publications or explore one of the in-depth articles to reflect on the past, present, and future of technology. The Lookout articles are hand-picked by the librarians and aim to provide a broader perspective on tech.
+
+
+{% include docs_logo.html library_part='exhibition' %}**Exhibitions**: in this room, we'll explore specific responsible tech topics through multimedia exhibitions that inform and challenge our views on technology. Stay tuned for the announcement of our first exhibition!
+
+{% include docs_logo.html library_part='library' %}**Library & Garden**: when you want to learn about a topic related to responsible tech, we invite you to browse the foundational resources in the main Library section, organized by category, type, and need. And be sure to visit the garden in the middle to sit down and discuss responsible tech with friends or other visitors. 
+
+<h3>Browsing the {% include docs_logo.html library_part='library' %}Library</h3>
+
 To help you learn about different aspects of responsible tech, we've selected foundational resources and organized them into **five categories**: accessibility, algorithmic bias and fairness, diversity and inclusion, general tech ethics, and sustainability.
 
 To **browse the resources**, you can simply walk by the tables in each of the category and open the websites for resources that catch your interest. In each category, we have selected resources of different **types** (tools, books, websites, organizations, and other), each represented with its own icon. 

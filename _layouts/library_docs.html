@@ -10,7 +10,7 @@ layout: body_library
       <div class="post-inside">
 
         <header class="post-header">
-          <h1 class="post-title">{{ page.title }}</h1>
+          <h1 class="post-title">{% include docs_logo.html library_part=page.library_part %} {{ page.title }}</h1>
         </header><!-- .post-header -->
         <div class="post-content">
           {{ content }}
