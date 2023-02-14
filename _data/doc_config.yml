@@ -26,7 +26,7 @@ library:
   root_docs_path: /library
   sections:
     - about
-    - magazines
     - events
+    - magazines
 #    - catalogue
 #    - lookout

@@ -27,7 +27,7 @@
               {% assign is_current_page = false %}{% endif %}
           {% assign is_active = page.url | starts_with: section_page.url %}
           <li class="docs-menu-item{% assign has_children_is_not_empty = has_children | is_not_empty %}{% if has_children_is_not_empty %} has-children{% endif %}{% assign is_current_page_is_not_empty = is_current_page | is_not_empty %}{% if is_current_page_is_not_empty %} current{% endif %}{% assign is_active_is_not_empty = is_active | is_not_empty %}{% if is_active_is_not_empty %} active{% endif %}">
-            <a href="{{ section_page.url | relative_url }}">{{ section_page.title }}</a>
+            <a href="{{ section_page.url | relative_url }}">{% if group=='library' %}{% include docs_logo.html library_part=section_page.library_part %}{% endif %}{{ section_page.title }}</a>
             {% assign has_children_is_not_empty = has_children | is_not_empty %}
             {% if has_children_is_not_empty %}
               <button class="docs-submenu-toggle"><span class="screen-reader-text">Submenu</span><span class="icon-angle-right" aria-hidden="true"></span></button>

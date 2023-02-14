@@ -1,0 +1,12 @@
+all:
+  name: Responsible Tech Library
+  logo: /assets/img/tools/ResponsibleTechLibrary-logo.png
+exhibition:
+  name: Exhibition section
+  logo: /assets/img/tools/ResponsibleTechLibrary-logo-exhibition.png
+lookout:
+  name: Lookout section
+  logo: /assets/img/tools/ResponsibleTechLibrary-logo-lookout.png
+library:
+  name: Library & Garden section
+  logo: /assets/img/tools/ResponsibleTechLibrary-logo-library.png
