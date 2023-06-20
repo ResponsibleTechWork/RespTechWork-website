@@ -103,4 +103,4 @@ By [Daniel Hartley](https://www.the-public-good.com/ai/pledges)
 
 As you can see, we took a different approach to writing and framing our pledges, context window, and recent thinking about AI, and we encourage you to do the same. **Have fun, experiment, and make _your_ pledges your own.**
 
-In the coming months, we’d like to feature additional #ResponsibleAIPledges from diverse perspectives. If you'd like your pledges to be featured on our website, email [{{ site.email }}](mailto:{{ site.email }}) with your link.
+In the coming months, we’d like to feature additional **#ResponsibleAIPledges** from diverse perspectives. If you'd like your pledges to be featured on our website, email [{{ site.email }}](mailto:{{ site.email }}) with your link.
