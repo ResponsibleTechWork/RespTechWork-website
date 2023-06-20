@@ -1,6 +1,10 @@
 <figure>
     {% if include.url %}
+        {% if include.url == "self" %}
+    <a href="{{ site.baseurl }}/assets/img/{{include.img}}" target="_blank" alt="Open image in new window" style="cursor: zoom-in;">
+        {% else %}
     <a href="{{ include.url }}">
+    {% endif %}
     {% endif %}
     <img src="{{ site.baseurl }}/assets/img/{{include.img}}"
     alt="{{ include.alt }}">
