@@ -5,6 +5,7 @@ date:   2023-06-20 09:00:00 +0100
 excerpt: >-
   We don't think billionaires and "grandfathers of AI" should be the only ones that get to define what responsible AI means. This is why we want to challenge more people – like you – to contribute to the public discussion on responsible AI by writing and sharing our diverse pledges.   
 tags: challenges, pledges, ai
+image: /assets/img/blog/RTW-Responsible_AI_Pledge_Challenge.png
 thumb_image: /assets/img/blog/RTW-Responsible_AI_Pledge_Challenge.png
 author: admin
 ---

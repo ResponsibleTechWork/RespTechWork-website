@@ -5,6 +5,7 @@ date:   2022-03-01 11:21:00 +0100
 excerpt: >-
   Introducing Pledge Works, a practical tool that invites you to write pledges for better outcomes as part of your existing product development processes.  
 tags: news, tools, pledges
+image: /assets/img/tools/Pledge_Works-process.webp
 thumb_image: /assets/img/tools/Pledge_Works-process.webp
 author: admin
 ---
