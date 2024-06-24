@@ -9,12 +9,12 @@ layout: docs
 
 - [Aequitas open source bias audit toolkit](http://www.datasciencepublicpolicy.org/projects/aequitas/)
 - [AI Blindspot Cards](https://aiblindspot.media.mit.edu/)
-- [AI Farness 360 toolkit by IBM](http://aif360.mybluemix.net/)
+- [AI Farness 360 toolkit by IBM](https://www.ibm.com/opensource/open/projects/ai-fairness-360/)
 
 ## Books
 
 - [Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence](https://katecrawford.net/)
-- [Weapons of Math Destruction: How big data increases inequality and threatens democracy](https://weaponsofmathdestructionbook.com)
+- [Weapons of Math Destruction: How big data increases inequality and threatens democracy](https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/)
 
 ## Organizations to follow
 

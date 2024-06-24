@@ -8,7 +8,6 @@ layout: docs
 ## Tools and frameworks
 
 - [Contributor Covenant](https://www.contributor-covenant.org/) is a code of conduct for open source communities and other digital commons communities.
-- [The Diversity and Inclusion toolkit by Tech Nation](https://technation.io/diversity-and-inclusion/) offers actionable insights and guidance to help founders build diverse and inclusive companies.
 - [W3C Code of Ethics and Professional Conduct](https://www.w3.org/Consortium/cepc/) can be used as an example of how to define acceptable and expected behaviors in a positive work environment.
 - [The Public Health Pledge](https://phpledge.com/) encourages event organizers to adopt Health and Safety policies that can help make events safer and more inclusive for more people.
 

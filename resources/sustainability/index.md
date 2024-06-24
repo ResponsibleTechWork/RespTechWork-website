@@ -11,7 +11,6 @@ layout: docs
 - [ClimateAction.Tech guide: Reduce the carbon emissions of your website](https://climateaction.tech/actions/reduce-the-carbon-emissions-of-your-website/)
 - [Climate Justice 101 Guide](https://www.notion.so/Climate-Justice-101-Guide-03bef96c18364c6cbca481ead365ae9e) by [Work on Climate's](https://workonclimate.org/) climate justice learning group
 - [Cloud Carbon Emissions Measurement and Analysis Tool](https://www.cloudcarbonfootprint.org/)
-- [Planet Centric Design](https://planetcentricdesign.com/)
 - [Principles of Green Software Engineering](https://principles.green/)
 - [Sustainable Design Tools](https://www.sdfy.org/sustainable-design-tools)
 - [Sustainable Web Design](https://sustainablewebdesign.org/)
