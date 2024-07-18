@@ -11,12 +11,15 @@ layout: docs
 - [ClimateAction.Tech guide: Reduce the carbon emissions of your website](https://climateaction.tech/actions/reduce-the-carbon-emissions-of-your-website/)
 - [Climate Justice 101 Guide](https://www.notion.so/Climate-Justice-101-Guide-03bef96c18364c6cbca481ead365ae9e) by [Work on Climate's](https://workonclimate.org/) climate justice learning group
 - [Cloud Carbon Emissions Measurement and Analysis Tool](https://www.cloudcarbonfootprint.org/)
+- [CO2.js - estimate emissions in your websites and apps](https://www.thegreenwebfoundation.org/co2-js/)
 - [Green Software repositories on GitHub](https://github.com/topics/green-software)
 - [Job Function Action Guides](https://drawdown.org/programs/drawdown-labs/job-function-action-guides) by [Project Drawdown](https://drawdown.org/) offer sustainability checklists and resources for different job functions, such as [engineering](https://drawdown.org/programs/drawdown-labs/job-function-action-guides/engineering), [product design](https://drawdown.org/programs/drawdown-labs/job-function-action-guides/product-design), [product management](https://drawdown.org/programs/drawdown-labs/job-function-action-guides/product-management), and more.
 - [Principles of Green Software Engineering](https://principles.green/)
+- [Software Carbon Intensity (SCI) Specification](https://sci.greensoftware.foundation/)
 - [Sustainable Design Tools](https://www.sdfy.org/sustainable-design-tools)
 - [Sustainable Web Design](https://sustainablewebdesign.org/)
 - [Tools for Sustainable Innovation by Threebility](https://www.threebility.com/tools)
+- [Web Sustainability Guidelines (WSG)](https://w3c.github.io/sustyweb/)
 - [Website Carbon Calculator](https://www.websitecarbon.com/)
 
 ## Websites 
@@ -38,8 +41,8 @@ layout: docs
 ## Organizations to follow
 
 - [ClimateAction.tech](https://climateaction.tech/) is a worldwide community connecting tech workers that want to learn more about climate action, discover climate jobs and more.
-- [Green Software Foundation](https://greensoftware.foundation/)
-- [The Green Web Foundation](https://www.thegreenwebfoundation.org/) offers a directory of green hosting providers and other useful green hosting tools.
+- [Green Software Foundation](https://greensoftware.foundation/) is building a trusted ecosystem of people, standards, tooling and best practices for creating and building green software.
+- [Green Web Foundation](https://www.thegreenwebfoundation.org/) offers a directory of green hosting providers and other useful green web tools.
 - [Work on Climate](https://workonclimate.org) is an action-oriented Slack community for people serious about climate work.
 
 ## Events
