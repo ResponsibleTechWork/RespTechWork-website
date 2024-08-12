@@ -7,10 +7,13 @@ layout: docs
 
 ## Tools and frameworks
 
-- [Aequitas open source bias audit toolkit](http://www.datasciencepublicpolicy.org/projects/aequitas/)
+- [Aequitas open-source bias audit toolkit](http://www.datasciencepublicpolicy.org/projects/aequitas/)
 - [AI Blindspot Cards](https://aiblindspot.media.mit.edu/)
-- [AI Farness 360 toolkit by IBM](https://www.ibm.com/opensource/open/projects/ai-fairness-360/)
+- [AI Farness 360 toolkit by IBM](https://aif360.res.ibm.com/)
 - [Better Images of AI](https://betterimagesofai.org/)
+- [Fairlearn open-source toolkit](https://fairlearn.org/)
+- [HAX Toolkit by Microsoft](https://www.microsoft.com/en-us/haxtoolkit/) provides guidelines and other resources such as the interactive [HAX Design Library](https://www.microsoft.com/en-us/haxtoolkit/library/) that can help you design better human-AI experiences.
+- [People + AI Guidebook by Google](https://pair.withgoogle.com/guidebook/) provides a set of methods, best practices, and examples for designing with AI.
 
 
 ## Documentaries and talks
