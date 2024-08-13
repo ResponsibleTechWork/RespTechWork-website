@@ -8,7 +8,7 @@ layout: docs
 ## Tools and frameworks
 
 - [Awesome Green Software](https://github.com/Green-Software-Foundation/awesome-green-software) list of tools, libraries, and other resources that can help you build greener applications.
-- [B Impact Assessment](https://bimpactassessment.net) is a tool a company can use to measure its impact on its workers, community, environment, and customers.
+- [B Impact Assessment](https://bimpactassessment.net) is a tool companies can use to measure impact on their workers, community, environment, and customers.
 - [ClimateAction.Tech guide: Reduce the carbon emissions of your website](https://climateaction.tech/actions/reduce-the-carbon-emissions-of-your-website/)
 - [Climate Justice 101 Guide](https://www.notion.so/Climate-Justice-101-Guide-03bef96c18364c6cbca481ead365ae9e) by [Work on Climate's](https://workonclimate.org/) climate justice learning group
 - [Cloud Carbon Emissions Measurement and Analysis Tool](https://www.cloudcarbonfootprint.org/)
@@ -17,7 +17,6 @@ layout: docs
 - [Green Software Practitioner](https://learn.greensoftware.foundation/) free training course
 - [Green Software repositories on GitHub](https://github.com/topics/green-software)
 - [Job Function Action Guides](https://drawdown.org/programs/drawdown-labs/job-function-action-guides) by [Project Drawdown](https://drawdown.org/) offer sustainability checklists and resources for different job functions, such as [engineering](https://drawdown.org/programs/drawdown-labs/job-function-action-guides/engineering), [product design](https://drawdown.org/programs/drawdown-labs/job-function-action-guides/product-design), [product management](https://drawdown.org/programs/drawdown-labs/job-function-action-guides/product-management), and more.
-- [Principles of Green Software Engineering](https://principles.green/)
 - [Software Carbon Intensity (SCI) Specification](https://sci.greensoftware.foundation/)
 - [Sustainable Design Tools](https://www.sdfy.org/sustainable-design-tools)
 - [Sustainable Web Design](https://sustainablewebdesign.org/)
