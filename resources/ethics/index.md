@@ -11,7 +11,7 @@ layout: docs
 - [A Framework for More Ethical Innovation by Substantial](https://substantial.com/insights/ethical-innovation-framework)
 - [Consequence Scanning Agile Kit](https://www.tech-transformed.com/product-development/)
 - [Data Ethics Canvas by Open Data Institute](https://theodi.org/article/the-data-ethics-canvas-2021/)
-- [Envisioning Cards](http://www.envisioningcards.com) and other toolkits by the [Value Sensitive Design Research Lab](https://vsdesign.org/toolkits/)
+- [Envisioning Cards](https://vsdesign.org/toolkits/envisioningcards/) and other toolkits by the [Value Sensitive Design Research Lab](https://vsdesign.org/toolkits/)
 - [Ethical Licenses for Open Source Software](https://ethicalsource.dev/licenses/)
 - [Ethics for Designers](https://www.ethicsfordesigners.com)
 - [Partnership on AI’s (PAI) Responsible Practices for Synthetic Media](https://syntheticmedia.partnershiponai.org/)
