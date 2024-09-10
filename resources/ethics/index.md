@@ -19,7 +19,7 @@ layout: docs
 - [Responsible tech playbook by Thoughtworks](https://www.thoughtworks.com/about-us/social-change/responsible-tech-playbook)
 - [Spotify's Ethics Assessment Worksheet](https://spoti.fi/Ethicsassessment)
 - [Values in Computing](http://www.valuesincomputing.org)
-- [Tethix Directory of Ethics Tools and Techniques](https://tethix.co/ethics-tools-directory/)
+- [Tethix ETHOS Directory of Ethics Tools and Techniques](https://ethos.tethix.co/tools/)
 - [The Ethics and Inclusion Framework](https://patriciagestoso.com/ethics-and-inclusion-framework/)
 
 ## Courses 
